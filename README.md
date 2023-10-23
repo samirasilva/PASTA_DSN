@@ -1,4 +1,4 @@
-# PASTA_ICST
+# PASTA (PAtient Simulation for Testing of bsn Applications)
 # Quality Metrics in Software Architecture
 
 **Paper Title**: Testing Body Sensor Networks Applications through Patient Simulation
