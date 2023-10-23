@@ -11,6 +11,10 @@ In this work, we propose PASTA (PAtient Simulation for Testing of bsn Applicatio
 We then simulate a patient by considering a whole set of sensors. A test run thus consists of monitoring for a pre-set time interval the behavior of the BSN applied to a simulated test patient. For evaluation, we apply PASTA to test a self-adaptive system from the literature, the SA-BSN (Self-Adaptive Body Sensor Network). PASTA was able to detect some not known failures and showed better effectiveness when compared to a random baseline. 
 
 
+**Requirements**:
+1 - [SA-BSN](https://github.com/lesunb/bsn) 
+2 - [ACTS Tool](https://github.com/usnistgov/combinatorial-testing-tools)
+
 **Supplementary Material** (Replication package):
 - [1 - ACTS Test Set](https://github.com/samirasilva/PASTA_ICST/blob/main/1_ACTS_BSN_Test_Set_t_2.txt) (Configuration of the ACTS tool and the output (transition matrices))
 - [2 - Test Patients](https://github.com/samirasilva/PASTA_ICST/tree/main/2_Test_Patients) (Configuration File for the BSN)
