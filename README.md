@@ -14,7 +14,7 @@ We then simulate a patient by considering a whole set of sensors. A test run thu
 **Requirements**:
 - [1 - SA-BSN](https://github.com/lesunb/bsn) 
 - [2 - ACTS Tool](https://github.com/usnistgov/combinatorial-testing-tools)
-- [3 - PASTA Scripts](linktoourscripts)
+- [3 - PASTA Scripts](https://github.com/samirasilva/PASTA_ICST/tree/main/PASTA%20Scripts)
 
 **Supplementary Material** (Replication package):
 - [1 - ACTS Test Set](https://github.com/samirasilva/PASTA_ICST/blob/main/1_ACTS_BSN_Test_Set_t_2.txt) (Configuration of the ACTS tool and the output (transition matrices))
