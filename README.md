@@ -12,6 +12,6 @@ We then simulate a patient by considering a whole set of sensors. A test run thu
 
 
 **Supplementary Material** (Replication package):
-- [1 - ACTS Test Set]([https://github.com/samirasilva/PASTA_ICST/blob/main/1_ACTS_BSN_Test_Set_t_2.txt]) (Configuration of the ACTS tool and the output (transition matrices))
+- [1 - ACTS Test Set](https://github.com/samirasilva/PASTA_ICST/blob/main/1_ACTS_BSN_Test_Set_t_2.txt) (Configuration of the ACTS tool and the output (transition matrices))
 - [2 - Test Patients](link) (Configuration File for the BSN)
 - 
