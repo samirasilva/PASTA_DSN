@@ -14,5 +14,5 @@ We then simulate a patient by considering a whole set of sensors. A test run thu
 **Supplementary Material** (Replication package):
 - [1 - ACTS Test Set](https://github.com/samirasilva/PASTA_ICST/blob/main/1_ACTS_BSN_Test_Set_t_2.txt) (Configuration of the ACTS tool and the output (transition matrices))
 - [2 - Test Patients](https://github.com/samirasilva/PASTA_ICST/tree/main/2_Test_Patients) (Configuration File for the BSN)
-- [3 - Sensor Time Series and BSN Outcome] (https://github.com/samirasilva/PASTA_ICST/tree/main/3_Sensor_Time_Series_And_BSN_Outcomes)
-- [4 - Sensor Time Series, BSN Outcome and Expected Outcome] (https://github.com/samirasilva/PASTA_ICST/tree/main/4_Sensor_Time_Series_BSN_Outcome_and_Expected_Outcome)
+- [3 - Sensor Time Series and BSN Outcome](https://github.com/samirasilva/PASTA_ICST/tree/main/3_Sensor_Time_Series_And_BSN_Outcomes)
+- [4 - Sensor Time Series, BSN Outcome and Expected Outcome](https://github.com/samirasilva/PASTA_ICST/tree/main/4_Sensor_Time_Series_BSN_Outcome_and_Expected_Outcome)
