@@ -40,7 +40,7 @@ $ npm start
 To run this project, install it locally using npm:
 
 ```
-$ cd ../lorem
+$ wget --no-check-certificate --content-disposition https://github.com/joyent/node/tarball/v0.7.1
 $ npm install
 $ npm start
 ```
