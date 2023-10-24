@@ -37,10 +37,10 @@ $ npm start
 ```
 ## How to execute the Random Baseline
 
-To run this project, install it locally using npm:
+To run this project, download, unzip and enter the main folder: 
 
 ```
-$ wget --no-check-certificate --content-disposition https://github.com/joyent/node/tarball/v0.7.1
-$ unzip file.zip -d destination_folder
-$ cd destination_folder
+$ wget --no-check-certificate --content-disposition https://github.com/samirasilva/PASTA_ICST/archive/refs/heads/main.zip
+$ unzip PASTA_ICST-main.zip -d PASTA_ICST-main
+$ cd PASTA_ICST-main
 ```
