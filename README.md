@@ -41,6 +41,6 @@ To run this project, install it locally using npm:
 
 ```
 $ wget --no-check-certificate --content-disposition https://github.com/joyent/node/tarball/v0.7.1
-$ npm install
-$ npm start
+$ unzip file.zip -d destination_folder
+$ cd destination_folder
 ```
