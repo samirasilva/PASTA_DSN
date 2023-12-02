@@ -1,0 +1,7614 @@
+/g4t1
+[0m[ INFO] [1700093379.012866969]: Module initial frequency: 1.000000[0m
+/g4t1
+[0m[ INFO] [1700093379.755862120]: Succesfully connected to effector.[0m
+++++++++++++++++++++
+Trm: 0.000000
+Ecg: 0.000000
+Oxi: 94.225301
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 0%
+Term: unknown
+Ecg: unknown
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 0.000000
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 0
+| OXIM_RISK: 13.4003
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093386474
+*****************************************
+General risk status: 13.4003%
+Term: unknown
+Ecg: unknown
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 13.400344
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 0
+| OXIM_RISK: 13.4003
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093386573
+*****************************************
+General risk status: 13.4003%
+Term: unknown
+Ecg: unknown
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 13.400344
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 0
+| OXIM_RISK: 13.4003
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093386673
+*****************************************
+General risk status: 13.4003%
+Term: unknown
+Ecg: unknown
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 13.400344
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 0
+| OXIM_RISK: 13.4003
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093386773
+*****************************************
+++++++++++++++++++++
+Trm: 0.000000
+Ecg: 95.020103
+Oxi: 94.225301
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 13.4003%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 13.400344
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 13.4003
+| OXIM_RISK: 13.4003
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093386873
+*****************************************
+General risk status: 13.4003%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 13.400344
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 13.4003
+| OXIM_RISK: 13.4003
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093386973
+*****************************************
+General risk status: 13.4003%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 13.400344
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 13.4003
+| OXIM_RISK: 13.4003
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093387073
+*****************************************
+General risk status: 13.4003%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 13.400344
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 13.4003
+| OXIM_RISK: 13.4003
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093387173
+*****************************************
+General risk status: 13.4003%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 13.400344
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 13.4003
+| OXIM_RISK: 13.4003
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093387273
+*****************************************
+General risk status: 13.4003%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 13.400344
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 13.4003
+| OXIM_RISK: 13.4003
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093387373
+*****************************************
+++++++++++++++++++++
+Trm: 0.000000
+Ecg: 95.020103
+Oxi: 98.910372
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 13.4003%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 13.400344
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 13.4003
+| OXIM_RISK: 18.7547
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093387473
+*****************************************
+General risk status: 16.5233%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 16.523324
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 13.4003
+| OXIM_RISK: 18.7547
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093387573
+*****************************************
+General risk status: 16.5233%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 16.523324
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 13.4003
+| OXIM_RISK: 18.7547
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093387674
+*****************************************
+General risk status: 16.5233%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 16.523324
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 13.4003
+| OXIM_RISK: 18.7547
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093387774
+*****************************************
+++++++++++++++++++++
+Trm: 0.000000
+Ecg: 96.626413
+Oxi: 98.910372
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 16.5233%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 16.523324
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 18.7547
+| OXIM_RISK: 18.7547
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093387874
+*****************************************
+General risk status: 18.7547%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 18.754711
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 18.7547
+| OXIM_RISK: 18.7547
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093387974
+*****************************************
+General risk status: 18.7547%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 18.754711
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 18.7547
+| OXIM_RISK: 18.7547
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093388074
+*****************************************
+General risk status: 18.7547%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 18.754711
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 18.7547
+| OXIM_RISK: 18.7547
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093388174
+*****************************************
+General risk status: 18.7547%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 18.754711
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 18.7547
+| OXIM_RISK: 18.7547
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093388274
+*****************************************
+General risk status: 18.7547%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 18.754711
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 18.7547
+| OXIM_RISK: 18.7547
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093388374
+*****************************************
+++++++++++++++++++++
+Trm: 0.000000
+Ecg: 96.626413
+Oxi: 72.736192
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 18.7547%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 18.754711
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 18.7547
+| OXIM_RISK: 11.1586
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093388474
+*****************************************
+General risk status: 15.9211%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 15.921132
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 18.7547
+| OXIM_RISK: 11.1586
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093388574
+*****************************************
+General risk status: 15.9211%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 15.921132
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 18.7547
+| OXIM_RISK: 11.1586
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093388674
+*****************************************
+General risk status: 15.9211%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 15.921132
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 18.7547
+| OXIM_RISK: 11.1586
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093388774
+*****************************************
+++++++++++++++++++++
+Trm: 0.000000
+Ecg: 87.652409
+Oxi: 72.736192
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 15.9211%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 15.921132
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 11.1586
+| OXIM_RISK: 11.1586
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093388874
+*****************************************
+General risk status: 11.1586%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 11.158638
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 11.1586
+| OXIM_RISK: 11.1586
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093388974
+*****************************************
+General risk status: 11.1586%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 11.158638
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 11.1586
+| OXIM_RISK: 11.1586
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093389075
+*****************************************
+General risk status: 11.1586%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 11.158638
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 11.1586
+| OXIM_RISK: 11.1586
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093389175
+*****************************************
+General risk status: 11.1586%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 11.158638
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 11.1586
+| OXIM_RISK: 11.1586
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093389275
+*****************************************
+General risk status: 11.1586%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 11.158638
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 11.1586
+| OXIM_RISK: 11.1586
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093389375
+*****************************************
+++++++++++++++++++++
+Trm: 0.000000
+Ecg: 87.652409
+Oxi: 75.785847
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 11.1586%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 11.158638
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 11.1586
+| OXIM_RISK: 7.67332
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093389475
+*****************************************
+General risk status: 9.7385%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 9.738501
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 11.1586
+| OXIM_RISK: 7.67332
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093389575
+*****************************************
+General risk status: 9.7385%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 9.738501
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 11.1586
+| OXIM_RISK: 7.67332
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093389675
+*****************************************
+General risk status: 9.7385%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 9.738501
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 11.1586
+| OXIM_RISK: 7.67332
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093389775
+*****************************************
+++++++++++++++++++++
+Trm: 0.000000
+Ecg: 88.698005
+Oxi: 75.785847
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 9.7385%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 9.738501
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 7.67332
+| OXIM_RISK: 7.67332
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093389875
+*****************************************
+General risk status: 7.67332%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 7.673318
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 7.67332
+| OXIM_RISK: 7.67332
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093389975
+*****************************************
+General risk status: 7.67332%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 7.673318
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 7.67332
+| OXIM_RISK: 7.67332
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093390075
+*****************************************
+General risk status: 7.67332%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 7.673318
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 7.67332
+| OXIM_RISK: 7.67332
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093390175
+*****************************************
+General risk status: 7.67332%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 7.673318
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 7.67332
+| OXIM_RISK: 7.67332
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093390276
+*****************************************
+General risk status: 7.67332%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 7.673318
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 7.67332
+| OXIM_RISK: 7.67332
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093390376
+*****************************************
+++++++++++++++++++++
+Trm: 0.000000
+Ecg: 88.698005
+Oxi: 84.152721
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 7.67332%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 7.673318
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 7.67332
+| OXIM_RISK: 1.88882
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093390476
+*****************************************
+General risk status: 6.5307%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 6.530698
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 7.67332
+| OXIM_RISK: 1.88882
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093390576
+*****************************************
+General risk status: 6.5307%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 6.530698
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 7.67332
+| OXIM_RISK: 1.88882
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093390676
+*****************************************
+General risk status: 6.5307%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 6.530698
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 7.67332
+| OXIM_RISK: 1.88882
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093390776
+*****************************************
+++++++++++++++++++++
+Trm: 0.000000
+Ecg: 91.566647
+Oxi: 84.152721
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 6.5307%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 6.530698
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 1.88882
+| OXIM_RISK: 1.88882
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093390876
+*****************************************
+General risk status: 1.88882%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 1.888824
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 1.88882
+| OXIM_RISK: 1.88882
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093390976
+*****************************************
+General risk status: 1.88882%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 1.888824
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 1.88882
+| OXIM_RISK: 1.88882
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093391076
+*****************************************
+General risk status: 1.88882%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 1.888824
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 1.88882
+| OXIM_RISK: 1.88882
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093391176
+*****************************************
+General risk status: 1.88882%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 1.888824
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 1.88882
+| OXIM_RISK: 1.88882
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093391276
+*****************************************
+General risk status: 1.88882%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 1.888824
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 1.88882
+| OXIM_RISK: 1.88882
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093391376
+*****************************************
+++++++++++++++++++++
+Trm: 0.000000
+Ecg: 91.566647
+Oxi: 71.593369
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 1.88882%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 1.888824
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 1.88882
+| OXIM_RISK: 12.4647
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093391476
+*****************************************
+General risk status: 11.073%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 11.073009
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 1.88882
+| OXIM_RISK: 12.4647
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093391576
+*****************************************
+General risk status: 11.073%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 11.073009
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 1.88882
+| OXIM_RISK: 12.4647
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093391677
+*****************************************
+General risk status: 11.073%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 11.073009
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 1.88882
+| OXIM_RISK: 12.4647
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093391777
+*****************************************
+++++++++++++++++++++
+Trm: 0.000000
+Ecg: 87.260584
+Oxi: 71.593369
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 11.073%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 11.073009
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 12.4647
+| OXIM_RISK: 12.4647
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093391877
+*****************************************
+General risk status: 12.4647%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 12.464721
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 12.4647
+| OXIM_RISK: 12.4647
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093391977
+*****************************************
+General risk status: 12.4647%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 12.464721
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 12.4647
+| OXIM_RISK: 12.4647
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093392077
+*****************************************
+General risk status: 12.4647%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 12.464721
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 12.4647
+| OXIM_RISK: 12.4647
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093392177
+*****************************************
+General risk status: 12.4647%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 12.464721
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 12.4647
+| OXIM_RISK: 12.4647
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093392277
+*****************************************
+General risk status: 12.4647%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 12.464721
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 12.4647
+| OXIM_RISK: 12.4647
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093392377
+*****************************************
+++++++++++++++++++++
+Trm: 0.000000
+Ecg: 87.260584
+Oxi: 99.750846
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 12.4647%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 12.464721
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 12.4647
+| OXIM_RISK: 19.7153
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093392477
+*****************************************
+General risk status: 16.9068%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 16.906802
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 12.4647
+| OXIM_RISK: 19.7153
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093392577
+*****************************************
+General risk status: 16.9068%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 16.906802
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 12.4647
+| OXIM_RISK: 19.7153
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093392677
+*****************************************
+General risk status: 16.9068%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 16.906802
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 12.4647
+| OXIM_RISK: 19.7153
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093392777
+*****************************************
+++++++++++++++++++++
+Trm: 0.000000
+Ecg: 96.914576
+Oxi: 99.750846
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 16.9068%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 16.906802
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 19.7153
+| OXIM_RISK: 19.7153
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093392877
+*****************************************
+General risk status: 19.7153%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 19.715252
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 19.7153
+| OXIM_RISK: 19.7153
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093392977
+*****************************************
+General risk status: 19.7153%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 19.715252
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 19.7153
+| OXIM_RISK: 19.7153
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093393077
+*****************************************
+General risk status: 19.7153%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 19.715252
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 19.7153
+| OXIM_RISK: 19.7153
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093393177
+*****************************************
+General risk status: 19.7153%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 19.715252
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 19.7153
+| OXIM_RISK: 19.7153
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093393278
+*****************************************
+General risk status: 19.7153%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 19.715252
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 19.7153
+| OXIM_RISK: 19.7153
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093393378
+*****************************************
+++++++++++++++++++++
+Trm: 0.000000
+Ecg: 96.914576
+Oxi: 99.876146
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 19.7153%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 19.715252
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 19.7153
+| OXIM_RISK: 19.8585
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093393478
+*****************************************
+General risk status: 19.7871%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 19.787112
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 19.7153
+| OXIM_RISK: 19.8585
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093393578
+*****************************************
+General risk status: 19.7871%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 19.787112
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 19.7153
+| OXIM_RISK: 19.8585
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093393678
+*****************************************
+General risk status: 19.7871%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 19.787112
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 19.7153
+| OXIM_RISK: 19.8585
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093393778
+*****************************************
+++++++++++++++++++++
+Trm: 0.000000
+Ecg: 96.957536
+Oxi: 99.876146
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 19.7871%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 19.787112
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 19.8585
+| OXIM_RISK: 19.8585
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093393878
+*****************************************
+General risk status: 19.8585%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 19.858453
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 19.8585
+| OXIM_RISK: 19.8585
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093393978
+*****************************************
+General risk status: 19.8585%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 19.858453
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 19.8585
+| OXIM_RISK: 19.8585
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093394078
+*****************************************
+General risk status: 19.8585%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 19.858453
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 19.8585
+| OXIM_RISK: 19.8585
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093394178
+*****************************************
+General risk status: 19.8585%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 19.858453
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 19.8585
+| OXIM_RISK: 19.8585
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093394278
+*****************************************
+General risk status: 19.8585%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 19.858453
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 19.8585
+| OXIM_RISK: 19.8585
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093394378
+*****************************************
+++++++++++++++++++++
+Trm: 0.000000
+Ecg: 96.957536
+Oxi: 98.869323
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 19.8585%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 19.858453
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 19.8585
+| OXIM_RISK: 18.7078
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093394478
+*****************************************
+General risk status: 19.3003%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 19.300291
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 19.8585
+| OXIM_RISK: 18.7078
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093394578
+*****************************************
+General risk status: 19.3003%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 19.300291
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 19.8585
+| OXIM_RISK: 18.7078
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093394678
+*****************************************
+General risk status: 19.3003%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 19.300291
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 19.8585
+| OXIM_RISK: 18.7078
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093394778
+*****************************************
+++++++++++++++++++++
+Trm: 0.000000
+Ecg: 96.612339
+Oxi: 98.869323
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 19.3003%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 19.300291
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 18.7078
+| OXIM_RISK: 18.7078
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093394879
+*****************************************
+General risk status: 18.7078%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 18.707797
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 18.7078
+| OXIM_RISK: 18.7078
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093394979
+*****************************************
+General risk status: 18.7078%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 18.707797
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 18.7078
+| OXIM_RISK: 18.7078
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093395079
+*****************************************
+General risk status: 18.7078%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 18.707797
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 18.7078
+| OXIM_RISK: 18.7078
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093395179
+*****************************************
+General risk status: 18.7078%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 18.707797
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 18.7078
+| OXIM_RISK: 18.7078
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093395279
+*****************************************
+General risk status: 18.7078%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 18.707797
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 18.7078
+| OXIM_RISK: 18.7078
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093395379
+*****************************************
+++++++++++++++++++++
+Trm: 0.000000
+Ecg: 96.612339
+Oxi: 98.970747
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 18.7078%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 18.707797
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 18.7078
+| OXIM_RISK: 18.8237
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093395479
+*****************************************
+General risk status: 18.7659%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 18.765933
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 18.7078
+| OXIM_RISK: 18.8237
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093395579
+*****************************************
+General risk status: 18.7659%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 18.765933
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 18.7078
+| OXIM_RISK: 18.8237
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093395679
+*****************************************
+General risk status: 18.7659%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 18.765933
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 18.7078
+| OXIM_RISK: 18.8237
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093395779
+*****************************************
+++++++++++++++++++++
+Trm: 0.000000
+Ecg: 93.710068
+Oxi: 98.970747
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 18.7659%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 18.765933
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 9.03356
+| OXIM_RISK: 18.8237
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093395879
+*****************************************
+General risk status: 15.649%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 15.648959
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 9.03356
+| OXIM_RISK: 18.8237
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093395979
+*****************************************
+General risk status: 15.649%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 15.648959
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 9.03356
+| OXIM_RISK: 18.8237
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093396079
+*****************************************
+General risk status: 15.649%
+Term: unknown
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 15.648959
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 0
+| ECG_RISK: 9.03356
+| OXIM_RISK: 18.8237
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093396179
+*****************************************
+++++++++++++++++++++
+Trm: 37.661667
+Ecg: 93.710068
+Oxi: 98.970747
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 15.649%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 15.648959
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 13.4003
+| ECG_RISK: 9.03356
+| OXIM_RISK: 18.8237
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093396280
+*****************************************
+General risk status: 14.9186%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 14.918616
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 13.4003
+| ECG_RISK: 9.03356
+| OXIM_RISK: 18.8237
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093396380
+*****************************************
+++++++++++++++++++++
+Trm: 37.661667
+Ecg: 93.710068
+Oxi: 98.500843
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 14.9186%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 14.918616
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 13.4003
+| ECG_RISK: 9.03356
+| OXIM_RISK: 18.2867
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093396480
+*****************************************
+General risk status: 14.6259%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 14.625945
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 13.4003
+| ECG_RISK: 9.03356
+| OXIM_RISK: 18.2867
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093396580
+*****************************************
+General risk status: 14.6259%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 14.625945
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 13.4003
+| ECG_RISK: 9.03356
+| OXIM_RISK: 18.2867
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093396680
+*****************************************
+General risk status: 14.6259%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 14.625945
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 13.4003
+| ECG_RISK: 9.03356
+| OXIM_RISK: 18.2867
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093396780
+*****************************************
+++++++++++++++++++++
+Trm: 37.661667
+Ecg: 96.773316
+Oxi: 98.500843
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 14.6259%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 14.625945
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 13.4003
+| ECG_RISK: 19.2444
+| OXIM_RISK: 18.2867
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093396880
+*****************************************
+General risk status: 17.3629%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 17.362925
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 13.4003
+| ECG_RISK: 19.2444
+| OXIM_RISK: 18.2867
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093396980
+*****************************************
+General risk status: 17.3629%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 17.362925
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 13.4003
+| ECG_RISK: 19.2444
+| OXIM_RISK: 18.2867
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093397080
+*****************************************
+++++++++++++++++++++
+Trm: 37.928047
+Ecg: 96.773316
+Oxi: 98.500843
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 17.3629%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 17.362925
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 18.7547
+| ECG_RISK: 19.2444
+| OXIM_RISK: 18.2867
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093397180
+*****************************************
+General risk status: 18.7701%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 18.770075
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 18.7547
+| ECG_RISK: 19.2444
+| OXIM_RISK: 18.2867
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093397280
+*****************************************
+General risk status: 18.7701%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 18.770075
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 18.7547
+| ECG_RISK: 19.2444
+| OXIM_RISK: 18.2867
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093397380
+*****************************************
+++++++++++++++++++++
+Trm: 37.928047
+Ecg: 96.773316
+Oxi: 81.988148
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 18.7701%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 18.770075
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 18.7547
+| ECG_RISK: 19.2444
+| OXIM_RISK: 0.584974
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093397480
+*****************************************
+General risk status: 18.7235%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 18.723473
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 18.7547
+| ECG_RISK: 19.2444
+| OXIM_RISK: 0.584974
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093397580
+*****************************************
+General risk status: 18.7235%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 18.723473
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 18.7547
+| ECG_RISK: 19.2444
+| OXIM_RISK: 0.584974
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093397680
+*****************************************
+General risk status: 18.7235%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 18.723473
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 18.7547
+| ECG_RISK: 19.2444
+| OXIM_RISK: 0.584974
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093397780
+*****************************************
+++++++++++++++++++++
+Trm: 37.928047
+Ecg: 86.318341
+Oxi: 81.988148
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 18.7235%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 18.723473
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 18.7547
+| ECG_RISK: 15.6055
+| OXIM_RISK: 0.584974
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093397881
+*****************************************
+General risk status: 17.0442%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 17.044220
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 18.7547
+| ECG_RISK: 15.6055
+| OXIM_RISK: 0.584974
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093397981
+*****************************************
+General risk status: 17.0442%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 17.044220
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 18.7547
+| ECG_RISK: 15.6055
+| OXIM_RISK: 0.584974
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093398081
+*****************************************
+++++++++++++++++++++
+Trm: 36.439858
+Ecg: 86.318341
+Oxi: 81.988148
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 17.0442%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 17.044220
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 11.1586
+| ECG_RISK: 15.6055
+| OXIM_RISK: 0.584974
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093398181
+*****************************************
+General risk status: 13.4699%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 13.469891
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 11.1586
+| ECG_RISK: 15.6055
+| OXIM_RISK: 0.584974
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093398281
+*****************************************
+General risk status: 13.4699%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 13.469891
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 11.1586
+| ECG_RISK: 15.6055
+| OXIM_RISK: 0.584974
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093398381
+*****************************************
+++++++++++++++++++++
+Trm: 36.439858
+Ecg: 86.318341
+Oxi: 93.009817
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 13.4699%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 13.469891
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 11.1586
+| ECG_RISK: 15.6055
+| OXIM_RISK: 12.0112
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093398481
+*****************************************
+General risk status: 13.2124%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 13.212432
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 11.1586
+| ECG_RISK: 15.6055
+| OXIM_RISK: 12.0112
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093398581
+*****************************************
+General risk status: 13.2124%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 13.212432
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 11.1586
+| ECG_RISK: 15.6055
+| OXIM_RISK: 12.0112
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093398681
+*****************************************
+General risk status: 13.2124%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 13.212432
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 11.1586
+| ECG_RISK: 15.6055
+| OXIM_RISK: 12.0112
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093398781
+*****************************************
+++++++++++++++++++++
+Trm: 36.439858
+Ecg: 94.577270
+Oxi: 93.009817
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 13.2124%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 13.212432
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 11.1586
+| ECG_RISK: 11.9242
+| OXIM_RISK: 12.0112
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093398881
+*****************************************
+General risk status: 11.7106%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 11.710574
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 11.1586
+| ECG_RISK: 11.9242
+| OXIM_RISK: 12.0112
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093398981
+*****************************************
+General risk status: 11.7106%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 11.710574
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 11.1586
+| ECG_RISK: 11.9242
+| OXIM_RISK: 12.0112
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093399081
+*****************************************
+General risk status: 11.7106%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 11.710574
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 11.1586
+| ECG_RISK: 11.9242
+| OXIM_RISK: 12.0112
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093399182
+*****************************************
+++++++++++++++++++++
+Trm: 36.613252
+Ecg: 94.577270
+Oxi: 93.009817
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 11.7106%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 11.710574
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 7.67332
+| ECG_RISK: 11.9242
+| OXIM_RISK: 12.0112
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093399282
+*****************************************
+General risk status: 10.9253%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 10.925339
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 7.67332
+| ECG_RISK: 11.9242
+| OXIM_RISK: 12.0112
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093399382
+*****************************************
+++++++++++++++++++++
+Trm: 36.613252
+Ecg: 94.577270
+Oxi: 69.966022
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 10.9253%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 10.925339
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 7.67332
+| ECG_RISK: 11.9242
+| OXIM_RISK: 14.3245
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093399482
+*****************************************
+General risk status: 11.9763%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 11.976258
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 7.67332
+| ECG_RISK: 11.9242
+| OXIM_RISK: 14.3245
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093399582
+*****************************************
+General risk status: 11.9763%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 11.976258
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 7.67332
+| ECG_RISK: 11.9242
+| OXIM_RISK: 14.3245
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093399682
+*****************************************
+General risk status: 11.9763%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 11.976258
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 7.67332
+| ECG_RISK: 11.9242
+| OXIM_RISK: 14.3245
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093399782
+*****************************************
+++++++++++++++++++++
+Trm: 36.613252
+Ecg: 88.564353
+Oxi: 69.966022
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 11.9763%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 11.976258
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 7.67332
+| ECG_RISK: 8.11882
+| OXIM_RISK: 14.3245
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093399882
+*****************************************
+General risk status: 10.957%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 10.956973
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 7.67332
+| ECG_RISK: 8.11882
+| OXIM_RISK: 14.3245
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093399982
+*****************************************
+General risk status: 10.957%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 10.956973
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 7.67332
+| ECG_RISK: 8.11882
+| OXIM_RISK: 14.3245
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093400082
+*****************************************
+++++++++++++++++++++
+Trm: 37.088969
+Ecg: 88.564353
+Oxi: 69.966022
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 10.957%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 10.956973
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 1.88882
+| ECG_RISK: 8.11882
+| OXIM_RISK: 14.3245
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093400183
+*****************************************
+General risk status: 11.2886%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 11.288566
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 1.88882
+| ECG_RISK: 8.11882
+| OXIM_RISK: 14.3245
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093400282
+*****************************************
+General risk status: 11.2886%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 11.288566
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 1.88882
+| ECG_RISK: 8.11882
+| OXIM_RISK: 14.3245
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093400382
+*****************************************
+++++++++++++++++++++
+Trm: 37.088969
+Ecg: 88.564353
+Oxi: 79.761645
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 11.2886%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 11.288566
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 1.88882
+| ECG_RISK: 8.11882
+| OXIM_RISK: 3.12955
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093400482
+*****************************************
+General risk status: 6.03455%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 6.034546
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 1.88882
+| ECG_RISK: 8.11882
+| OXIM_RISK: 3.12955
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093400582
+*****************************************
+General risk status: 6.03455%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 6.034546
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 1.88882
+| ECG_RISK: 8.11882
+| OXIM_RISK: 3.12955
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093400682
+*****************************************
+General risk status: 6.03455%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 6.034546
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 1.88882
+| ECG_RISK: 8.11882
+| OXIM_RISK: 3.12955
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093400783
+*****************************************
+++++++++++++++++++++
+Trm: 37.088969
+Ecg: 29.523290
+Oxi: 79.761645
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 6.03455%
+Term: low risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 6.034546
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 1.88882
+| ECG_RISK: 85.6601
+| OXIM_RISK: 3.12955
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY LOW RISK
+Seconds Since Epoch: 1700093400883
+*****************************************
+============ EMERGENCY ============(81.0668%)
+Term: low risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 81.066826
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 1.88882
+| ECG_RISK: 85.6601
+| OXIM_RISK: 3.12955
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY CRITICAL RISK
+Seconds Since Epoch: 1700093400983
+*****************************************
+============ EMERGENCY ============(81.0668%)
+Term: low risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 81.066826
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 1.88882
+| ECG_RISK: 85.6601
+| OXIM_RISK: 3.12955
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY CRITICAL RISK
+Seconds Since Epoch: 1700093401083
+*****************************************
+++++++++++++++++++++
+Trm: 34.182057
+Ecg: 29.523290
+Oxi: 79.761645
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+============ EMERGENCY ============(81.0668%)
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 81.066826
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 40.9372
+| ECG_RISK: 85.6601
+| OXIM_RISK: 3.12955
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY CRITICAL RISK
+Seconds Since Epoch: 1700093401183
+*****************************************
+============ EMERGENCY ============(69.5562%)
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 69.556172
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 40.9372
+| ECG_RISK: 85.6601
+| OXIM_RISK: 3.12955
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093401283
+*****************************************
+============ EMERGENCY ============(69.5562%)
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 69.556172
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 40.9372
+| ECG_RISK: 85.6601
+| OXIM_RISK: 3.12955
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093401383
+*****************************************
+++++++++++++++++++++
+Trm: 34.182057
+Ecg: 29.523290
+Oxi: 87.391717
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+============ EMERGENCY ============(69.5562%)
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 69.556172
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 40.9372
+| ECG_RISK: 85.6601
+| OXIM_RISK: 5.59053
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093401483
+*****************************************
+============ EMERGENCY ============(68.4236%)
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 68.423566
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 40.9372
+| ECG_RISK: 85.6601
+| OXIM_RISK: 5.59053
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093401583
+*****************************************
+============ EMERGENCY ============(68.4236%)
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 68.423566
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 40.9372
+| ECG_RISK: 85.6601
+| OXIM_RISK: 5.59053
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093401683
+*****************************************
+============ EMERGENCY ============(68.4236%)
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 68.423566
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 40.9372
+| ECG_RISK: 85.6601
+| OXIM_RISK: 5.59053
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093401783
+*****************************************
+++++++++++++++++++++
+Trm: 34.182057
+Ecg: 64.101487
+Oxi: 87.391717
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+============ EMERGENCY ============(68.4236%)
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 68.423566
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 40.9372
+| ECG_RISK: 68.865
+| OXIM_RISK: 5.59053
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093401884
+*****************************************
+General risk status: 55.8917%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 55.891702
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 40.9372
+| ECG_RISK: 68.865
+| OXIM_RISK: 5.59053
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093401983
+*****************************************
+General risk status: 55.8917%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 55.891702
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 40.9372
+| ECG_RISK: 68.865
+| OXIM_RISK: 5.59053
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093402083
+*****************************************
+++++++++++++++++++++
+Trm: 35.820452
+Ecg: 64.101487
+Oxi: 87.391717
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 55.8917%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 55.891702
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.8697
+| ECG_RISK: 68.865
+| OXIM_RISK: 5.59053
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093402184
+*****************************************
+General risk status: 54.4223%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 54.422318
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.8697
+| ECG_RISK: 68.865
+| OXIM_RISK: 5.59053
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093402284
+*****************************************
+General risk status: 54.4223%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 54.422318
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.8697
+| ECG_RISK: 68.865
+| OXIM_RISK: 5.59053
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093402384
+*****************************************
+++++++++++++++++++++
+Trm: 35.820452
+Ecg: 64.101487
+Oxi: 95.745073
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 54.4223%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 54.422318
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.8697
+| ECG_RISK: 68.865
+| OXIM_RISK: 15.1372
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093402484
+*****************************************
+General risk status: 51.4124%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 51.412439
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.8697
+| ECG_RISK: 68.865
+| OXIM_RISK: 15.1372
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093402584
+*****************************************
+General risk status: 51.4124%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 51.412439
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.8697
+| ECG_RISK: 68.865
+| OXIM_RISK: 15.1372
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093402684
+*****************************************
+General risk status: 51.4124%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 51.412439
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.8697
+| ECG_RISK: 68.865
+| OXIM_RISK: 15.1372
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093402784
+*****************************************
+General risk status: 51.4124%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 51.412439
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.8697
+| ECG_RISK: 68.865
+| OXIM_RISK: 15.1372
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093402884
+*****************************************
+++++++++++++++++++++
+Trm: 35.820452
+Ecg: 55.454513
+Oxi: 95.745073
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 51.4124%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 51.412439
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.8697
+| ECG_RISK: 73.065
+| OXIM_RISK: 15.1372
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093402984
+*****************************************
+General risk status: 54.8352%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 54.835175
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.8697
+| ECG_RISK: 73.065
+| OXIM_RISK: 15.1372
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093403084
+*****************************************
+++++++++++++++++++++
+Trm: 35.849905
+Ecg: 55.454513
+Oxi: 95.745073
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 54.8352%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 54.835175
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.5449
+| ECG_RISK: 73.065
+| OXIM_RISK: 15.1372
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093403184
+*****************************************
+General risk status: 54.8628%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 54.862804
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.5449
+| ECG_RISK: 73.065
+| OXIM_RISK: 15.1372
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093403284
+*****************************************
+General risk status: 54.8628%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 54.862804
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.5449
+| ECG_RISK: 73.065
+| OXIM_RISK: 15.1372
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093403385
+*****************************************
+++++++++++++++++++++
+Trm: 35.849905
+Ecg: 55.454513
+Oxi: 82.628194
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 54.8628%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 54.862804
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.5449
+| ECG_RISK: 73.065
+| OXIM_RISK: 0.146507
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093403485
+*****************************************
+General risk status: 61.0589%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 61.058932
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.5449
+| ECG_RISK: 73.065
+| OXIM_RISK: 0.146507
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093403585
+*****************************************
+General risk status: 61.0589%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 61.058932
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.5449
+| ECG_RISK: 73.065
+| OXIM_RISK: 0.146507
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093403685
+*****************************************
+General risk status: 61.0589%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 61.058932
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.5449
+| ECG_RISK: 73.065
+| OXIM_RISK: 0.146507
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093403785
+*****************************************
+++++++++++++++++++++
+Trm: 35.849905
+Ecg: 67.164470
+Oxi: 82.628194
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 61.0589%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 61.058932
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.5449
+| ECG_RISK: 67.3773
+| OXIM_RISK: 0.146507
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093403885
+*****************************************
+General risk status: 56.046%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 56.046004
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.5449
+| ECG_RISK: 67.3773
+| OXIM_RISK: 0.146507
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093403985
+*****************************************
+General risk status: 56.046%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 56.046004
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.5449
+| ECG_RISK: 67.3773
+| OXIM_RISK: 0.146507
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093404085
+*****************************************
+++++++++++++++++++++
+Trm: 32.628876
+Ecg: 67.164470
+Oxi: 82.628194
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 56.046%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 56.046004
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 58.065
+| ECG_RISK: 67.3773
+| OXIM_RISK: 0.146507
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093404185
+*****************************************
+General risk status: 62.9934%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 62.993388
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 58.065
+| ECG_RISK: 67.3773
+| OXIM_RISK: 0.146507
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093404285
+*****************************************
+General risk status: 62.9934%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 62.993388
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 58.065
+| ECG_RISK: 67.3773
+| OXIM_RISK: 0.146507
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093404386
+*****************************************
+++++++++++++++++++++
+Trm: 32.628876
+Ecg: 67.164470
+Oxi: 92.927502
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 62.9934%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 62.993388
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 58.065
+| ECG_RISK: 67.3773
+| OXIM_RISK: 11.9171
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093404486
+*****************************************
+General risk status: 58.6291%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 58.629105
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 58.065
+| ECG_RISK: 67.3773
+| OXIM_RISK: 11.9171
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093404585
+*****************************************
+General risk status: 58.6291%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 58.629105
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 58.065
+| ECG_RISK: 67.3773
+| OXIM_RISK: 11.9171
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093404686
+*****************************************
+General risk status: 58.6291%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 58.629105
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 58.065
+| ECG_RISK: 67.3773
+| OXIM_RISK: 11.9171
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093404786
+*****************************************
+++++++++++++++++++++
+Trm: 32.628876
+Ecg: 45.901849
+Oxi: 92.927502
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 58.6291%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 58.629105
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 58.065
+| ECG_RISK: 77.7048
+| OXIM_RISK: 11.9171
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093404886
+*****************************************
+General risk status: 64.6746%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 64.674649
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 58.065
+| ECG_RISK: 77.7048
+| OXIM_RISK: 11.9171
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093404986
+*****************************************
+General risk status: 64.6746%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 64.674649
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 58.065
+| ECG_RISK: 77.7048
+| OXIM_RISK: 11.9171
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093405086
+*****************************************
+++++++++++++++++++++
+Trm: 35.872665
+Ecg: 45.901849
+Oxi: 92.927502
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 64.6746%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 64.674649
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.2939
+| ECG_RISK: 77.7048
+| OXIM_RISK: 11.9171
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093405186
+*****************************************
+General risk status: 59.6616%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 59.661557
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.2939
+| ECG_RISK: 77.7048
+| OXIM_RISK: 11.9171
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093405286
+*****************************************
+General risk status: 59.6616%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 59.661557
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.2939
+| ECG_RISK: 77.7048
+| OXIM_RISK: 11.9171
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093405386
+*****************************************
+++++++++++++++++++++
+Trm: 35.872665
+Ecg: 45.901849
+Oxi: 77.645290
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 59.6616%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 59.661557
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.2939
+| ECG_RISK: 77.7048
+| OXIM_RISK: 5.54824
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093405495
+*****************************************
+General risk status: 62.2078%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 62.207754
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.2939
+| ECG_RISK: 77.7048
+| OXIM_RISK: 5.54824
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093405586
+*****************************************
+General risk status: 62.2078%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 62.207754
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.2939
+| ECG_RISK: 77.7048
+| OXIM_RISK: 5.54824
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093405686
+*****************************************
+General risk status: 62.2078%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 62.207754
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.2939
+| ECG_RISK: 77.7048
+| OXIM_RISK: 5.54824
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093405786
+*****************************************
+++++++++++++++++++++
+Trm: 35.872665
+Ecg: 2.499818
+Oxi: 77.645290
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 62.2078%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 62.207754
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.2939
+| ECG_RISK: 98.7858
+| OXIM_RISK: 5.54824
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093405886
+*****************************************
+============ EMERGENCY ============(81.2335%)
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 81.233533
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.2939
+| ECG_RISK: 98.7858
+| OXIM_RISK: 5.54824
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY CRITICAL RISK
+Seconds Since Epoch: 1700093405986
+*****************************************
+============ EMERGENCY ============(81.2335%)
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 81.233533
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.2939
+| ECG_RISK: 98.7858
+| OXIM_RISK: 5.54824
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY CRITICAL RISK
+Seconds Since Epoch: 1700093406086
+*****************************************
+++++++++++++++++++++
+Trm: 35.819096
+Ecg: 2.499818
+Oxi: 77.645290
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+============ EMERGENCY ============(81.2335%)
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 81.233533
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.8847
+| ECG_RISK: 98.7858
+| OXIM_RISK: 5.54824
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY CRITICAL RISK
+Seconds Since Epoch: 1700093406187
+*****************************************
+============ EMERGENCY ============(81.0661%)
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 81.066113
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.8847
+| ECG_RISK: 98.7858
+| OXIM_RISK: 5.54824
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY CRITICAL RISK
+Seconds Since Epoch: 1700093406287
+*****************************************
+============ EMERGENCY ============(81.0661%)
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 81.066113
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.8847
+| ECG_RISK: 98.7858
+| OXIM_RISK: 5.54824
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY CRITICAL RISK
+Seconds Since Epoch: 1700093406387
+*****************************************
+++++++++++++++++++++
+Trm: 35.819096
+Ecg: 2.499818
+Oxi: 97.689764
+Abps: 0.000000
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+============ EMERGENCY ============(81.0661%)
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 81.066113
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.8847
+| ECG_RISK: 98.7858
+| OXIM_RISK: 17.3597
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:VERY CRITICAL RISK
+Seconds Since Epoch: 1700093406487
+*****************************************
+============ EMERGENCY ============(76.1252%)
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 76.125212
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.8847
+| ECG_RISK: 98.7858
+| OXIM_RISK: 17.3597
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093406587
+*****************************************
+============ EMERGENCY ============(76.1252%)
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: unknown
+Abpd: unknown
+Glc: unknown
+Patient_Status: 76.125212
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.8847
+| ECG_RISK: 98.7858
+| OXIM_RISK: 17.3597
+| ABPS_RISK: 0
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093406687
+*****************************************
+++++++++++++++++++++
+Trm: 35.819096
+Ecg: 2.499818
+Oxi: 97.689764
+Abps: 15.238417
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+============ EMERGENCY ============(76.1252%)
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 76.125212
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.8847
+| ECG_RISK: 98.7858
+| OXIM_RISK: 17.3597
+| ABPS_RISK: 14.9205
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093406787
+*****************************************
+++++++++++++++++++++
+Trm: 35.819096
+Ecg: 59.439051
+Oxi: 97.689764
+Abps: 15.238417
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+============ EMERGENCY ============(72.6283%)
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 72.628338
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.8847
+| ECG_RISK: 71.1296
+| OXIM_RISK: 17.3597
+| ABPS_RISK: 14.9205
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093406887
+*****************************************
+General risk status: 49.9868%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 49.986798
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.8847
+| ECG_RISK: 71.1296
+| OXIM_RISK: 17.3597
+| ABPS_RISK: 14.9205
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093406987
+*****************************************
+General risk status: 49.9868%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 49.986798
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.8847
+| ECG_RISK: 71.1296
+| OXIM_RISK: 17.3597
+| ABPS_RISK: 14.9205
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093407087
+*****************************************
+++++++++++++++++++++
+Trm: 33.936649
+Ecg: 59.439051
+Oxi: 97.689764
+Abps: 15.238417
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 49.9868%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 49.986798
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 43.6435
+| ECG_RISK: 71.1296
+| OXIM_RISK: 17.3597
+| ABPS_RISK: 14.9205
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093407187
+*****************************************
+General risk status: 52.4467%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 52.446650
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 43.6435
+| ECG_RISK: 71.1296
+| OXIM_RISK: 17.3597
+| ABPS_RISK: 14.9205
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093407287
+*****************************************
+General risk status: 52.4467%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 52.446650
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 43.6435
+| ECG_RISK: 71.1296
+| OXIM_RISK: 17.3597
+| ABPS_RISK: 14.9205
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093407388
+*****************************************
+++++++++++++++++++++
+Trm: 33.936649
+Ecg: 59.439051
+Oxi: 88.755731
+Abps: 15.238417
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 52.4467%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 52.446650
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 43.6435
+| ECG_RISK: 71.1296
+| OXIM_RISK: 7.14941
+| ABPS_RISK: 14.9205
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093407487
+*****************************************
+General risk status: 54.6514%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 54.651357
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 43.6435
+| ECG_RISK: 71.1296
+| OXIM_RISK: 7.14941
+| ABPS_RISK: 14.9205
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093407588
+*****************************************
+General risk status: 54.6514%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 54.651357
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 43.6435
+| ECG_RISK: 71.1296
+| OXIM_RISK: 7.14941
+| ABPS_RISK: 14.9205
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093407688
+*****************************************
+++++++++++++++++++++
+Trm: 33.936649
+Ecg: 59.439051
+Oxi: 88.755731
+Abps: 109.605103
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 54.6514%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 54.651357
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 43.6435
+| ECG_RISK: 71.1296
+| OXIM_RISK: 7.14941
+| ABPS_RISK: 16.535
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093407788
+*****************************************
+++++++++++++++++++++
+Trm: 33.936649
+Ecg: 65.379527
+Oxi: 88.755731
+Abps: 109.605103
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 54.41%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 54.410009
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 43.6435
+| ECG_RISK: 68.2442
+| OXIM_RISK: 7.14941
+| ABPS_RISK: 16.535
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093407888
+*****************************************
+General risk status: 52.4843%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 52.484294
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 43.6435
+| ECG_RISK: 68.2442
+| OXIM_RISK: 7.14941
+| ABPS_RISK: 16.535
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093407988
+*****************************************
+General risk status: 52.4843%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 52.484294
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 43.6435
+| ECG_RISK: 68.2442
+| OXIM_RISK: 7.14941
+| ABPS_RISK: 16.535
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093408088
+*****************************************
+++++++++++++++++++++
+Trm: 35.193119
+Ecg: 65.379527
+Oxi: 88.755731
+Abps: 109.605103
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 52.4843%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 52.484294
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 29.7877
+| ECG_RISK: 68.2442
+| OXIM_RISK: 7.14941
+| ABPS_RISK: 16.535
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093408188
+*****************************************
+General risk status: 49.926%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 49.926000
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 29.7877
+| ECG_RISK: 68.2442
+| OXIM_RISK: 7.14941
+| ABPS_RISK: 16.535
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093408288
+*****************************************
+General risk status: 49.926%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 49.926000
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 29.7877
+| ECG_RISK: 68.2442
+| OXIM_RISK: 7.14941
+| ABPS_RISK: 16.535
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093408388
+*****************************************
+++++++++++++++++++++
+Trm: 35.193119
+Ecg: 65.379527
+Oxi: 91.520904
+Abps: 109.605103
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 49.926%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 49.926000
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 29.7877
+| ECG_RISK: 68.2442
+| OXIM_RISK: 10.3096
+| ABPS_RISK: 16.535
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093408488
+*****************************************
+General risk status: 49.0461%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 49.046118
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 29.7877
+| ECG_RISK: 68.2442
+| OXIM_RISK: 10.3096
+| ABPS_RISK: 16.535
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093408588
+*****************************************
+General risk status: 49.0461%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 49.046118
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 29.7877
+| ECG_RISK: 68.2442
+| OXIM_RISK: 10.3096
+| ABPS_RISK: 16.535
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093408688
+*****************************************
+++++++++++++++++++++
+Trm: 35.193119
+Ecg: 65.379527
+Oxi: 91.520904
+Abps: 75.883110
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 49.0461%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 49.046118
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 29.7877
+| ECG_RISK: 68.2442
+| OXIM_RISK: 10.3096
+| ABPS_RISK: 5.29437
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093408788
+*****************************************
+++++++++++++++++++++
+Trm: 35.193119
+Ecg: 47.511461
+Oxi: 91.520904
+Abps: 75.883110
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 50.977%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 50.977047
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 29.7877
+| ECG_RISK: 76.923
+| OXIM_RISK: 10.3096
+| ABPS_RISK: 5.29437
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093408892
+*****************************************
+General risk status: 57.8081%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 57.808106
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 29.7877
+| ECG_RISK: 76.923
+| OXIM_RISK: 10.3096
+| ABPS_RISK: 5.29437
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093408992
+*****************************************
+General risk status: 57.8081%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 57.808106
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 29.7877
+| ECG_RISK: 76.923
+| OXIM_RISK: 10.3096
+| ABPS_RISK: 5.29437
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093409092
+*****************************************
+++++++++++++++++++++
+Trm: 32.566127
+Ecg: 47.511461
+Oxi: 91.520904
+Abps: 75.883110
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 57.8081%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 57.808106
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 58.757
+| ECG_RISK: 76.923
+| OXIM_RISK: 10.3096
+| ABPS_RISK: 5.29437
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093409192
+*****************************************
+General risk status: 63.7987%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 63.798666
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 58.757
+| ECG_RISK: 76.923
+| OXIM_RISK: 10.3096
+| ABPS_RISK: 5.29437
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093409292
+*****************************************
+General risk status: 63.7987%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 63.798666
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 58.757
+| ECG_RISK: 76.923
+| OXIM_RISK: 10.3096
+| ABPS_RISK: 5.29437
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093409392
+*****************************************
+++++++++++++++++++++
+Trm: 32.566127
+Ecg: 47.511461
+Oxi: 91.009636
+Abps: 75.883110
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 63.7987%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 63.798666
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 58.757
+| ECG_RISK: 76.923
+| OXIM_RISK: 9.7253
+| ABPS_RISK: 5.29437
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093409492
+*****************************************
+General risk status: 63.9714%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 63.971385
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 58.757
+| ECG_RISK: 76.923
+| OXIM_RISK: 9.7253
+| ABPS_RISK: 5.29437
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093409592
+*****************************************
+General risk status: 63.9714%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 63.971385
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 58.757
+| ECG_RISK: 76.923
+| OXIM_RISK: 9.7253
+| ABPS_RISK: 5.29437
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093409692
+*****************************************
+++++++++++++++++++++
+Trm: 32.566127
+Ecg: 47.511461
+Oxi: 91.009636
+Abps: 11.704848
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 63.9714%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 63.971385
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 58.757
+| ECG_RISK: 76.923
+| OXIM_RISK: 9.7253
+| ABPS_RISK: 16.0984
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093409792
+*****************************************
+++++++++++++++++++++
+Trm: 32.566127
+Ecg: 53.041809
+Oxi: 91.009636
+Abps: 11.704848
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 62.096%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 62.095963
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 58.757
+| ECG_RISK: 74.2368
+| OXIM_RISK: 9.7253
+| ABPS_RISK: 16.0984
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093409892
+*****************************************
+General risk status: 60.5092%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 60.509153
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 58.757
+| ECG_RISK: 74.2368
+| OXIM_RISK: 9.7253
+| ABPS_RISK: 16.0984
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093409992
+*****************************************
+General risk status: 60.5092%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 60.509153
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 58.757
+| ECG_RISK: 74.2368
+| OXIM_RISK: 9.7253
+| ABPS_RISK: 16.0984
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093410093
+*****************************************
+++++++++++++++++++++
+Trm: 33.682828
+Ecg: 53.041809
+Oxi: 91.009636
+Abps: 11.704848
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 60.5092%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 60.509153
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 46.4425
+| ECG_RISK: 74.2368
+| OXIM_RISK: 9.7253
+| ABPS_RISK: 16.0984
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:CRITICAL RISK
+Seconds Since Epoch: 1700093410193
+*****************************************
+General risk status: 56.5343%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 56.534260
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 46.4425
+| ECG_RISK: 74.2368
+| OXIM_RISK: 9.7253
+| ABPS_RISK: 16.0984
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093410293
+*****************************************
+General risk status: 56.5343%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 56.534260
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 46.4425
+| ECG_RISK: 74.2368
+| OXIM_RISK: 9.7253
+| ABPS_RISK: 16.0984
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093410393
+*****************************************
+++++++++++++++++++++
+Trm: 33.682828
+Ecg: 53.041809
+Oxi: 78.727946
+Abps: 11.704848
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 56.5343%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 56.534260
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 46.4425
+| ECG_RISK: 74.2368
+| OXIM_RISK: 4.31092
+| ABPS_RISK: 16.0984
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093410493
+*****************************************
+General risk status: 58.2638%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 58.263826
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 46.4425
+| ECG_RISK: 74.2368
+| OXIM_RISK: 4.31092
+| ABPS_RISK: 16.0984
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093410593
+*****************************************
+General risk status: 58.2638%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 58.263826
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 46.4425
+| ECG_RISK: 74.2368
+| OXIM_RISK: 4.31092
+| ABPS_RISK: 16.0984
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093410693
+*****************************************
+++++++++++++++++++++
+Trm: 33.682828
+Ecg: 53.041809
+Oxi: 78.727946
+Abps: 33.419786
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 58.2638%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 58.263826
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 46.4425
+| ECG_RISK: 74.2368
+| OXIM_RISK: 4.31092
+| ABPS_RISK: 8.86007
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093410793
+*****************************************
+++++++++++++++++++++
+Trm: 33.682828
+Ecg: 52.019273
+Oxi: 78.727946
+Abps: 33.419786
+Abpd: 0.000000
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 59.5442%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 59.544163
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 46.4425
+| ECG_RISK: 74.7335
+| OXIM_RISK: 4.31092
+| ABPS_RISK: 8.86007
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093410893
+*****************************************
+General risk status: 59.886%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 59.886031
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 46.4425
+| ECG_RISK: 74.7335
+| OXIM_RISK: 4.31092
+| ABPS_RISK: 8.86007
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093410993
+*****************************************
+General risk status: 59.886%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: unknown
+Glc: unknown
+Patient_Status: 59.886031
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 46.4425
+| ECG_RISK: 74.7335
+| OXIM_RISK: 4.31092
+| ABPS_RISK: 8.86007
+| ABPD_RISK: 0
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093411094
+*****************************************
+++++++++++++++++++++
+Trm: 33.682828
+Ecg: 52.019273
+Oxi: 78.727946
+Abps: 33.419786
+Abpd: 81.269868
+Glc: 0.000000
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 35.653785
+Ecg: 52.019273
+Oxi: 78.727946
+Abps: 33.419786
+Abpd: 81.269868
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 59.886%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: unknown
+Patient_Status: 59.886031
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 24.7076
+| ECG_RISK: 74.7335
+| OXIM_RISK: 4.31092
+| ABPS_RISK: 8.86007
+| ABPD_RISK: 26.5874
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093411194
+*****************************************
+General risk status: 53.7414%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: unknown
+Patient_Status: 53.741388
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 24.7076
+| ECG_RISK: 74.7335
+| OXIM_RISK: 4.31092
+| ABPS_RISK: 8.86007
+| ABPD_RISK: 26.5874
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093411294
+*****************************************
+General risk status: 53.7414%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: unknown
+Patient_Status: 53.741388
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 24.7076
+| ECG_RISK: 74.7335
+| OXIM_RISK: 4.31092
+| ABPS_RISK: 8.86007
+| ABPD_RISK: 26.5874
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093411394
+*****************************************
+++++++++++++++++++++
+Trm: 35.653785
+Ecg: 52.019273
+Oxi: 87.941726
+Abps: 33.419786
+Abpd: 81.269868
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 53.7414%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: unknown
+Patient_Status: 53.741388
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 24.7076
+| ECG_RISK: 74.7335
+| OXIM_RISK: 6.21912
+| ABPS_RISK: 8.86007
+| ABPD_RISK: 26.5874
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093411494
+*****************************************
+General risk status: 53.0731%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: unknown
+Patient_Status: 53.073102
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 24.7076
+| ECG_RISK: 74.7335
+| OXIM_RISK: 6.21912
+| ABPS_RISK: 8.86007
+| ABPD_RISK: 26.5874
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093411594
+*****************************************
+General risk status: 53.0731%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: unknown
+Patient_Status: 53.073102
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 24.7076
+| ECG_RISK: 74.7335
+| OXIM_RISK: 6.21912
+| ABPS_RISK: 8.86007
+| ABPD_RISK: 26.5874
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093411694
+*****************************************
+++++++++++++++++++++
+Trm: 35.653785
+Ecg: 52.019273
+Oxi: 87.941726
+Abps: 119.145756
+Abpd: 81.269868
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 53.0731%
+Term: moderate risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: unknown
+Patient_Status: 53.073102
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 24.7076
+| ECG_RISK: 74.7335
+| OXIM_RISK: 6.21912
+| ABPS_RISK: 19.7153
+| ABPD_RISK: 26.5874
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093411794
+*****************************************
+++++++++++++++++++++
+Trm: 35.653785
+Ecg: 90.065052
+Oxi: 87.941726
+Abps: 119.145756
+Abpd: 81.269868
+Glc: 0.000000
+++++++++++++++++++++
+General risk status: 52.5591%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: unknown
+Patient_Status: 52.559128
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 24.7076
+| ECG_RISK: 3.11649
+| OXIM_RISK: 6.21912
+| ABPS_RISK: 19.7153
+| ABPD_RISK: 26.5874
+| GLC_RISK: 0
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093411894
+*****************************************
+++++++++++++++++++++
+Trm: 35.653785
+Ecg: 90.065052
+Oxi: 87.941726
+Abps: 119.145756
+Abpd: 81.269868
+Glc: 119.243138
+++++++++++++++++++++
+General risk status: 20.8908%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 20.890818
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 24.7076
+| ECG_RISK: 3.11649
+| OXIM_RISK: 6.21912
+| ABPS_RISK: 19.7153
+| ABPD_RISK: 26.5874
+| GLC_RISK: 63.6302
+| PATIENT_STATE:LOW RISK
+Seconds Since Epoch: 1700093411994
+*****************************************
+General risk status: 46.2465%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 46.246539
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 24.7076
+| ECG_RISK: 3.11649
+| OXIM_RISK: 6.21912
+| ABPS_RISK: 19.7153
+| ABPD_RISK: 26.5874
+| GLC_RISK: 63.6302
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093412094
+*****************************************
+++++++++++++++++++++
+Trm: 35.653785
+Ecg: 90.065052
+Oxi: 87.941726
+Abps: 119.145756
+Abpd: 82.210340
+Glc: 119.243138
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 40.626508
+Ecg: 90.065052
+Oxi: 87.941726
+Abps: 119.145756
+Abpd: 82.210340
+Glc: 119.243138
+++++++++++++++++++++
+General risk status: 46.2465%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 46.246539
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 59.6509
+| ECG_RISK: 3.11649
+| OXIM_RISK: 6.21912
+| ABPS_RISK: 19.7153
+| ABPD_RISK: 30.7255
+| GLC_RISK: 63.6302
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093412195
+*****************************************
+General risk status: 54.8284%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 54.828399
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 59.6509
+| ECG_RISK: 3.11649
+| OXIM_RISK: 6.21912
+| ABPS_RISK: 19.7153
+| ABPD_RISK: 30.7255
+| GLC_RISK: 63.6302
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093412295
+*****************************************
+General risk status: 54.8284%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 54.828399
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 59.6509
+| ECG_RISK: 3.11649
+| OXIM_RISK: 6.21912
+| ABPS_RISK: 19.7153
+| ABPD_RISK: 30.7255
+| GLC_RISK: 63.6302
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093412395
+*****************************************
+++++++++++++++++++++
+Trm: 40.626508
+Ecg: 90.065052
+Oxi: 75.566959
+Abps: 119.145756
+Abpd: 82.210340
+Glc: 119.243138
+++++++++++++++++++++
+General risk status: 54.8284%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 54.828399
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 59.6509
+| ECG_RISK: 3.11649
+| OXIM_RISK: 7.92347
+| ABPS_RISK: 19.7153
+| ABPD_RISK: 30.7255
+| GLC_RISK: 63.6302
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093412495
+*****************************************
+General risk status: 54.3098%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 54.309815
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 59.6509
+| ECG_RISK: 3.11649
+| OXIM_RISK: 7.92347
+| ABPS_RISK: 19.7153
+| ABPD_RISK: 30.7255
+| GLC_RISK: 63.6302
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093412595
+*****************************************
+General risk status: 54.3098%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 54.309815
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 59.6509
+| ECG_RISK: 3.11649
+| OXIM_RISK: 7.92347
+| ABPS_RISK: 19.7153
+| ABPD_RISK: 30.7255
+| GLC_RISK: 63.6302
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093412695
+*****************************************
+++++++++++++++++++++
+Trm: 40.626508
+Ecg: 90.065052
+Oxi: 75.566959
+Abps: 119.575359
+Abpd: 82.210340
+Glc: 119.243138
+++++++++++++++++++++
+General risk status: 54.3098%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 54.309815
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 59.6509
+| ECG_RISK: 3.11649
+| OXIM_RISK: 7.92347
+| ABPS_RISK: 19.8585
+| ABPD_RISK: 30.7255
+| GLC_RISK: 63.6302
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093412795
+*****************************************
+++++++++++++++++++++
+Trm: 40.626508
+Ecg: 83.043968
+Oxi: 75.566959
+Abps: 119.575359
+Abpd: 82.210340
+Glc: 119.243138
+++++++++++++++++++++
+General risk status: 54.3064%
+Term: moderate risk
+Ecg: moderate risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 54.306378
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 59.6509
+| ECG_RISK: 26.7377
+| OXIM_RISK: 7.92347
+| ABPS_RISK: 19.8585
+| ABPD_RISK: 30.7255
+| GLC_RISK: 63.6302
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093412895
+*****************************************
+General risk status: 52.7275%
+Term: moderate risk
+Ecg: moderate risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 52.727452
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 59.6509
+| ECG_RISK: 26.7377
+| OXIM_RISK: 7.92347
+| ABPS_RISK: 19.8585
+| ABPD_RISK: 30.7255
+| GLC_RISK: 63.6302
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093412995
+*****************************************
+General risk status: 52.7275%
+Term: moderate risk
+Ecg: moderate risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 52.727452
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 59.6509
+| ECG_RISK: 26.7377
+| OXIM_RISK: 7.92347
+| ABPS_RISK: 19.8585
+| ABPD_RISK: 30.7255
+| GLC_RISK: 63.6302
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093413095
+*****************************************
+++++++++++++++++++++
+Trm: 40.626508
+Ecg: 83.043968
+Oxi: 75.566959
+Abps: 119.575359
+Abpd: 83.081671
+Glc: 119.243138
+++++++++++++++++++++
+General risk status: 52.7275%
+Term: moderate risk
+Ecg: moderate risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 52.727452
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 59.6509
+| ECG_RISK: 26.7377
+| OXIM_RISK: 7.92347
+| ABPS_RISK: 19.8585
+| ABPD_RISK: 34.5594
+| GLC_RISK: 63.6302
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093413196
+*****************************************
+General risk status: 52.6201%
+Term: moderate risk
+Ecg: moderate risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 52.620103
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 59.6509
+| ECG_RISK: 26.7377
+| OXIM_RISK: 7.92347
+| ABPS_RISK: 19.8585
+| ABPD_RISK: 34.5594
+| GLC_RISK: 63.6302
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093413296
+*****************************************
+General risk status: 52.6201%
+Term: moderate risk
+Ecg: moderate risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 52.620103
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 59.6509
+| ECG_RISK: 26.7377
+| OXIM_RISK: 7.92347
+| ABPS_RISK: 19.8585
+| ABPD_RISK: 34.5594
+| GLC_RISK: 63.6302
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093413396
+*****************************************
+++++++++++++++++++++
+Trm: 40.626508
+Ecg: 83.043968
+Oxi: 92.969456
+Abps: 119.575359
+Abpd: 83.081671
+Glc: 119.243138
+++++++++++++++++++++
+General risk status: 52.6201%
+Term: moderate risk
+Ecg: moderate risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 52.620103
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 59.6509
+| ECG_RISK: 26.7377
+| OXIM_RISK: 11.9651
+| ABPS_RISK: 19.8585
+| ABPD_RISK: 34.5594
+| GLC_RISK: 63.6302
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093413496
+*****************************************
+General risk status: 53.659%
+Term: moderate risk
+Ecg: moderate risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 53.658963
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 59.6509
+| ECG_RISK: 26.7377
+| OXIM_RISK: 11.9651
+| ABPS_RISK: 19.8585
+| ABPD_RISK: 34.5594
+| GLC_RISK: 63.6302
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093413596
+*****************************************
+General risk status: 53.659%
+Term: moderate risk
+Ecg: moderate risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 53.658963
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 59.6509
+| ECG_RISK: 26.7377
+| OXIM_RISK: 11.9651
+| ABPS_RISK: 19.8585
+| ABPD_RISK: 34.5594
+| GLC_RISK: 63.6302
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093413696
+*****************************************
+++++++++++++++++++++
+Trm: 40.626508
+Ecg: 83.043968
+Oxi: 92.969456
+Abps: 116.123392
+Abpd: 83.081671
+Glc: 119.243138
+++++++++++++++++++++
+General risk status: 53.659%
+Term: moderate risk
+Ecg: moderate risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 53.658963
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 59.6509
+| ECG_RISK: 26.7377
+| OXIM_RISK: 11.9651
+| ABPS_RISK: 18.7078
+| ABPD_RISK: 34.5594
+| GLC_RISK: 63.6302
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093413796
+*****************************************
+++++++++++++++++++++
+Trm: 40.626508
+Ecg: 89.562945
+Oxi: 92.969456
+Abps: 116.123392
+Abpd: 83.081671
+Glc: 119.243138
+++++++++++++++++++++
+General risk status: 53.7116%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 53.711593
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 59.6509
+| ECG_RISK: 4.79018
+| OXIM_RISK: 11.9651
+| ABPS_RISK: 18.7078
+| ABPD_RISK: 34.5594
+| GLC_RISK: 63.6302
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093413896
+*****************************************
+++++++++++++++++++++
+Trm: 40.626508
+Ecg: 89.562945
+Oxi: 92.969456
+Abps: 116.123392
+Abpd: 83.081671
+Glc: 105.679493
+++++++++++++++++++++
+General risk status: 53.8408%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 53.840827
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 59.6509
+| ECG_RISK: 4.79018
+| OXIM_RISK: 11.9651
+| ABPS_RISK: 18.7078
+| ABPD_RISK: 34.5594
+| GLC_RISK: 38.7531
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093413996
+*****************************************
+General risk status: 44.6045%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 44.604493
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 59.6509
+| ECG_RISK: 4.79018
+| OXIM_RISK: 11.9651
+| ABPS_RISK: 18.7078
+| ABPD_RISK: 34.5594
+| GLC_RISK: 38.7531
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093414096
+*****************************************
+++++++++++++++++++++
+Trm: 40.626508
+Ecg: 89.562945
+Oxi: 92.969456
+Abps: 116.123392
+Abpd: 85.472206
+Glc: 105.679493
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 42.459686
+Ecg: 89.562945
+Oxi: 92.969456
+Abps: 116.123392
+Abpd: 85.472206
+Glc: 105.679493
+++++++++++++++++++++
+General risk status: 44.6045%
+Term: high risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 44.604493
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 71.5144
+| ECG_RISK: 4.79018
+| OXIM_RISK: 11.9651
+| ABPS_RISK: 18.7078
+| ABPD_RISK: 45.0777
+| GLC_RISK: 38.7531
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093414197
+*****************************************
+General risk status: 52.148%
+Term: high risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 52.147985
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 71.5144
+| ECG_RISK: 4.79018
+| OXIM_RISK: 11.9651
+| ABPS_RISK: 18.7078
+| ABPD_RISK: 45.0777
+| GLC_RISK: 38.7531
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093414296
+*****************************************
+General risk status: 52.148%
+Term: high risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 52.147985
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 71.5144
+| ECG_RISK: 4.79018
+| OXIM_RISK: 11.9651
+| ABPS_RISK: 18.7078
+| ABPD_RISK: 45.0777
+| GLC_RISK: 38.7531
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093414397
+*****************************************
+++++++++++++++++++++
+Trm: 42.459686
+Ecg: 89.562945
+Oxi: 73.767537
+Abps: 116.123392
+Abpd: 85.472206
+Glc: 105.679493
+++++++++++++++++++++
+General risk status: 52.148%
+Term: high risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 52.147985
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 71.5144
+| ECG_RISK: 4.79018
+| OXIM_RISK: 9.97996
+| ABPS_RISK: 18.7078
+| ABPD_RISK: 45.0777
+| GLC_RISK: 38.7531
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093414497
+*****************************************
+General risk status: 52.6704%
+Term: high risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 52.670367
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 71.5144
+| ECG_RISK: 4.79018
+| OXIM_RISK: 9.97996
+| ABPS_RISK: 18.7078
+| ABPD_RISK: 45.0777
+| GLC_RISK: 38.7531
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093414597
+*****************************************
+General risk status: 52.6704%
+Term: high risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 52.670367
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 71.5144
+| ECG_RISK: 4.79018
+| OXIM_RISK: 9.97996
+| ABPS_RISK: 18.7078
+| ABPD_RISK: 45.0777
+| GLC_RISK: 38.7531
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093414697
+*****************************************
+++++++++++++++++++++
+Trm: 42.459686
+Ecg: 89.562945
+Oxi: 73.767537
+Abps: 87.100676
+Abpd: 85.472206
+Glc: 105.679493
+++++++++++++++++++++
+General risk status: 52.6704%
+Term: high risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 52.670367
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 71.5144
+| ECG_RISK: 4.79018
+| OXIM_RISK: 9.97996
+| ABPS_RISK: 9.03356
+| ABPD_RISK: 45.0777
+| GLC_RISK: 38.7531
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093414797
+*****************************************
+++++++++++++++++++++
+Trm: 42.459686
+Ecg: 91.815991
+Oxi: 73.767537
+Abps: 87.100676
+Abpd: 85.472206
+Glc: 105.679493
+++++++++++++++++++++
+General risk status: 52.6142%
+Term: high risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 52.614204
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 71.5144
+| ECG_RISK: 2.71997
+| OXIM_RISK: 9.97996
+| ABPS_RISK: 9.03356
+| ABPD_RISK: 45.0777
+| GLC_RISK: 38.7531
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093414897
+*****************************************
+General risk status: 51.6559%
+Term: high risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 51.655851
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 71.5144
+| ECG_RISK: 2.71997
+| OXIM_RISK: 9.97996
+| ABPS_RISK: 9.03356
+| ABPD_RISK: 45.0777
+| GLC_RISK: 38.7531
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093414997
+*****************************************
+General risk status: 51.6559%
+Term: high risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 51.655851
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 71.5144
+| ECG_RISK: 2.71997
+| OXIM_RISK: 9.97996
+| ABPS_RISK: 9.03356
+| ABPD_RISK: 45.0777
+| GLC_RISK: 38.7531
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093415097
+*****************************************
+++++++++++++++++++++
+Trm: 42.459686
+Ecg: 91.815991
+Oxi: 73.767537
+Abps: 87.100676
+Abpd: 81.883820
+Glc: 105.679493
+++++++++++++++++++++
+General risk status: 51.6559%
+Term: high risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 51.655851
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 71.5144
+| ECG_RISK: 2.71997
+| OXIM_RISK: 9.97996
+| ABPS_RISK: 9.03356
+| ABPD_RISK: 29.2888
+| GLC_RISK: 38.7531
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093415197
+*****************************************
+General risk status: 52.157%
+Term: high risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 52.156991
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 71.5144
+| ECG_RISK: 2.71997
+| OXIM_RISK: 9.97996
+| ABPS_RISK: 9.03356
+| ABPD_RISK: 29.2888
+| GLC_RISK: 38.7531
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093415298
+*****************************************
+General risk status: 52.157%
+Term: high risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 52.156991
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 71.5144
+| ECG_RISK: 2.71997
+| OXIM_RISK: 9.97996
+| ABPS_RISK: 9.03356
+| ABPD_RISK: 29.2888
+| GLC_RISK: 38.7531
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093415398
+*****************************************
+++++++++++++++++++++
+Trm: 42.459686
+Ecg: 91.815991
+Oxi: 92.996310
+Abps: 87.100676
+Abpd: 81.883820
+Glc: 105.679493
+++++++++++++++++++++
+General risk status: 52.157%
+Term: high risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 52.156991
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 71.5144
+| ECG_RISK: 2.71997
+| OXIM_RISK: 11.9958
+| ABPS_RISK: 9.03356
+| ABPD_RISK: 29.2888
+| GLC_RISK: 38.7531
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093415498
+*****************************************
+General risk status: 51.6489%
+Term: high risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 51.648941
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 71.5144
+| ECG_RISK: 2.71997
+| OXIM_RISK: 11.9958
+| ABPS_RISK: 9.03356
+| ABPD_RISK: 29.2888
+| GLC_RISK: 38.7531
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093415598
+*****************************************
+General risk status: 51.6489%
+Term: high risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 51.648941
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 71.5144
+| ECG_RISK: 2.71997
+| OXIM_RISK: 11.9958
+| ABPS_RISK: 9.03356
+| ABPD_RISK: 29.2888
+| GLC_RISK: 38.7531
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093415698
+*****************************************
+++++++++++++++++++++
+Trm: 42.459686
+Ecg: 91.815991
+Oxi: 92.996310
+Abps: 119.545058
+Abpd: 81.883820
+Glc: 105.679493
+++++++++++++++++++++
+General risk status: 51.6489%
+Term: high risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 51.648941
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 71.5144
+| ECG_RISK: 2.71997
+| OXIM_RISK: 11.9958
+| ABPS_RISK: 19.8484
+| ABPD_RISK: 29.2888
+| GLC_RISK: 38.7531
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093415798
+*****************************************
+++++++++++++++++++++
+Trm: 42.459686
+Ecg: 87.410941
+Oxi: 92.996310
+Abps: 119.545058
+Abpd: 81.883820
+Glc: 105.679493
+++++++++++++++++++++
+General risk status: 51.2258%
+Term: high risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 51.225776
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 71.5144
+| ECG_RISK: 11.9635
+| OXIM_RISK: 11.9958
+| ABPS_RISK: 19.8484
+| ABPD_RISK: 29.2888
+| GLC_RISK: 38.7531
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093415898
+*****************************************
+General risk status: 56.6491%
+Term: high risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 56.649066
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 71.5144
+| ECG_RISK: 11.9635
+| OXIM_RISK: 11.9958
+| ABPS_RISK: 19.8484
+| ABPD_RISK: 29.2888
+| GLC_RISK: 38.7531
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093415998
+*****************************************
+General risk status: 56.6491%
+Term: high risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 56.649066
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 71.5144
+| ECG_RISK: 11.9635
+| OXIM_RISK: 11.9958
+| ABPS_RISK: 19.8484
+| ABPD_RISK: 29.2888
+| GLC_RISK: 38.7531
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093416098
+*****************************************
+++++++++++++++++++++
+Trm: 42.459686
+Ecg: 87.410941
+Oxi: 92.996310
+Abps: 119.545058
+Abpd: 85.536060
+Glc: 105.679493
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 38.117146
+Ecg: 87.410941
+Oxi: 92.996310
+Abps: 119.545058
+Abpd: 85.536060
+Glc: 105.679493
+++++++++++++++++++++
+General risk status: 56.6491%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 56.649066
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.7239
+| ECG_RISK: 11.9635
+| OXIM_RISK: 11.9958
+| ABPS_RISK: 19.8484
+| ABPD_RISK: 45.3587
+| GLC_RISK: 38.7531
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093416198
+*****************************************
+General risk status: 33.5958%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 33.595795
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.7239
+| ECG_RISK: 11.9635
+| OXIM_RISK: 11.9958
+| ABPS_RISK: 19.8484
+| ABPD_RISK: 45.3587
+| GLC_RISK: 38.7531
+| PATIENT_STATE:LOW RISK
+Seconds Since Epoch: 1700093416298
+*****************************************
+General risk status: 33.5958%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 33.595795
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.7239
+| ECG_RISK: 11.9635
+| OXIM_RISK: 11.9958
+| ABPS_RISK: 19.8484
+| ABPD_RISK: 45.3587
+| GLC_RISK: 38.7531
+| PATIENT_STATE:LOW RISK
+Seconds Since Epoch: 1700093416399
+*****************************************
+++++++++++++++++++++
+Trm: 38.117146
+Ecg: 87.410941
+Oxi: 67.819785
+Abps: 119.545058
+Abpd: 85.536060
+Glc: 105.679493
+++++++++++++++++++++
+General risk status: 33.5958%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 33.595795
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.7239
+| ECG_RISK: 11.9635
+| OXIM_RISK: 16.7774
+| ABPS_RISK: 19.8484
+| ABPD_RISK: 45.3587
+| GLC_RISK: 38.7531
+| PATIENT_STATE:LOW RISK
+Seconds Since Epoch: 1700093416499
+*****************************************
+General risk status: 32.3218%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 32.321828
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.7239
+| ECG_RISK: 11.9635
+| OXIM_RISK: 16.7774
+| ABPS_RISK: 19.8484
+| ABPD_RISK: 45.3587
+| GLC_RISK: 38.7531
+| PATIENT_STATE:LOW RISK
+Seconds Since Epoch: 1700093416599
+*****************************************
+General risk status: 32.3218%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 32.321828
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.7239
+| ECG_RISK: 11.9635
+| OXIM_RISK: 16.7774
+| ABPS_RISK: 19.8484
+| ABPD_RISK: 45.3587
+| GLC_RISK: 38.7531
+| PATIENT_STATE:LOW RISK
+Seconds Since Epoch: 1700093416699
+*****************************************
+++++++++++++++++++++
+Trm: 38.117146
+Ecg: 87.410941
+Oxi: 67.819785
+Abps: 11.841603
+Abpd: 85.536060
+Glc: 105.679493
+++++++++++++++++++++
+General risk status: 32.3218%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 32.321828
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.7239
+| ECG_RISK: 11.9635
+| OXIM_RISK: 16.7774
+| ABPS_RISK: 16.0528
+| ABPD_RISK: 45.3587
+| GLC_RISK: 38.7531
+| PATIENT_STATE:LOW RISK
+Seconds Since Epoch: 1700093416799
+*****************************************
+++++++++++++++++++++
+Trm: 38.117146
+Ecg: 95.282096
+Oxi: 67.819785
+Abps: 11.841603
+Abpd: 85.536060
+Glc: 105.679493
+++++++++++++++++++++
+General risk status: 31.731%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 31.731001
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.7239
+| ECG_RISK: 14.2737
+| OXIM_RISK: 16.7774
+| ABPS_RISK: 16.0528
+| ABPD_RISK: 45.3587
+| GLC_RISK: 38.7531
+| PATIENT_STATE:LOW RISK
+Seconds Since Epoch: 1700093416899
+*****************************************
+++++++++++++++++++++
+Trm: 38.117146
+Ecg: 95.282096
+Oxi: 67.819785
+Abps: 11.841603
+Abpd: 85.536060
+Glc: 119.819222
+++++++++++++++++++++
+General risk status: 32.5311%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 32.531122
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.7239
+| ECG_RISK: 14.2737
+| OXIM_RISK: 16.7774
+| ABPS_RISK: 16.0528
+| ABPD_RISK: 45.3587
+| GLC_RISK: 64.6868
+| PATIENT_STATE:LOW RISK
+Seconds Since Epoch: 1700093416999
+*****************************************
+General risk status: 51.4099%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 51.409928
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 22.7239
+| ECG_RISK: 14.2737
+| OXIM_RISK: 16.7774
+| ABPS_RISK: 16.0528
+| ABPD_RISK: 45.3587
+| GLC_RISK: 64.6868
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093417099
+*****************************************
+++++++++++++++++++++
+Trm: 38.117146
+Ecg: 95.282096
+Oxi: 67.819785
+Abps: 11.841603
+Abpd: 97.849418
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 40.037265
+Ecg: 95.282096
+Oxi: 67.819785
+Abps: 11.841603
+Abpd: 97.849418
+Glc: 119.819222
+++++++++++++++++++++
+General risk status: 51.4099%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: high risk
+Glc: moderate risk
+Patient_Status: 51.409928
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 50.9798
+| ECG_RISK: 14.2737
+| OXIM_RISK: 16.7774
+| ABPS_RISK: 16.0528
+| ABPD_RISK: 67.2709
+| GLC_RISK: 64.6868
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093417200
+*****************************************
+General risk status: 53.9725%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: high risk
+Glc: moderate risk
+Patient_Status: 53.972472
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 50.9798
+| ECG_RISK: 14.2737
+| OXIM_RISK: 16.7774
+| ABPS_RISK: 16.0528
+| ABPD_RISK: 67.2709
+| GLC_RISK: 64.6868
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093417299
+*****************************************
+General risk status: 53.9725%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: high risk
+Glc: moderate risk
+Patient_Status: 53.972472
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 50.9798
+| ECG_RISK: 14.2737
+| OXIM_RISK: 16.7774
+| ABPS_RISK: 16.0528
+| ABPD_RISK: 67.2709
+| GLC_RISK: 64.6868
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093417399
+*****************************************
+++++++++++++++++++++
+Trm: 40.037265
+Ecg: 95.282096
+Oxi: 91.224729
+Abps: 11.841603
+Abpd: 97.849418
+Glc: 119.819222
+++++++++++++++++++++
+General risk status: 53.9725%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: high risk
+Glc: moderate risk
+Patient_Status: 53.972472
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 50.9798
+| ECG_RISK: 14.2737
+| OXIM_RISK: 9.97112
+| ABPS_RISK: 16.0528
+| ABPD_RISK: 67.2709
+| GLC_RISK: 64.6868
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093417500
+*****************************************
+General risk status: 53.2328%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: high risk
+Glc: moderate risk
+Patient_Status: 53.232836
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 50.9798
+| ECG_RISK: 14.2737
+| OXIM_RISK: 9.97112
+| ABPS_RISK: 16.0528
+| ABPD_RISK: 67.2709
+| GLC_RISK: 64.6868
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093417600
+*****************************************
+General risk status: 53.2328%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: high risk
+Glc: moderate risk
+Patient_Status: 53.232836
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 50.9798
+| ECG_RISK: 14.2737
+| OXIM_RISK: 9.97112
+| ABPS_RISK: 16.0528
+| ABPD_RISK: 67.2709
+| GLC_RISK: 64.6868
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093417700
+*****************************************
+++++++++++++++++++++
+Trm: 40.037265
+Ecg: 95.282096
+Oxi: 91.224729
+Abps: 100.767696
+Abpd: 97.849418
+Glc: 119.819222
+++++++++++++++++++++
+General risk status: 53.2328%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: high risk
+Glc: moderate risk
+Patient_Status: 53.232836
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 50.9798
+| ECG_RISK: 14.2737
+| OXIM_RISK: 9.97112
+| ABPS_RISK: 13.5892
+| ABPD_RISK: 67.2709
+| GLC_RISK: 64.6868
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093417800
+*****************************************
+++++++++++++++++++++
+Trm: 40.037265
+Ecg: 84.104031
+Oxi: 91.224729
+Abps: 100.767696
+Abpd: 97.849418
+Glc: 119.819222
+++++++++++++++++++++
+General risk status: 53.0545%
+Term: moderate risk
+Ecg: moderate risk
+Oxi: low risk
+Abps: low risk
+Abpd: high risk
+Glc: moderate risk
+Patient_Status: 53.054535
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 50.9798
+| ECG_RISK: 23.6282
+| OXIM_RISK: 9.97112
+| ABPS_RISK: 13.5892
+| ABPD_RISK: 67.2709
+| GLC_RISK: 64.6868
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093417900
+*****************************************
+General risk status: 51.3739%
+Term: moderate risk
+Ecg: moderate risk
+Oxi: low risk
+Abps: low risk
+Abpd: high risk
+Glc: moderate risk
+Patient_Status: 51.373894
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 50.9798
+| ECG_RISK: 23.6282
+| OXIM_RISK: 9.97112
+| ABPS_RISK: 13.5892
+| ABPD_RISK: 67.2709
+| GLC_RISK: 64.6868
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093418002
+*****************************************
+General risk status: 51.3739%
+Term: moderate risk
+Ecg: moderate risk
+Oxi: low risk
+Abps: low risk
+Abpd: high risk
+Glc: moderate risk
+Patient_Status: 51.373894
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 50.9798
+| ECG_RISK: 23.6282
+| OXIM_RISK: 9.97112
+| ABPS_RISK: 13.5892
+| ABPD_RISK: 67.2709
+| GLC_RISK: 64.6868
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093418101
+*****************************************
+++++++++++++++++++++
+Trm: 40.037265
+Ecg: 84.104031
+Oxi: 91.224729
+Abps: 100.767696
+Abpd: 101.798464
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 39.192228
+Ecg: 84.104031
+Oxi: 91.224729
+Abps: 100.767696
+Abpd: 101.798464
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 39.192228
+Ecg: 84.104031
+Oxi: 88.125442
+Abps: 100.767696
+Abpd: 101.798464
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 39.192228
+Ecg: 84.104031
+Oxi: 88.125442
+Abps: 31.972868
+Abpd: 101.798464
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 39.192228
+Ecg: 95.915497
+Oxi: 88.125442
+Abps: 31.972868
+Abpd: 101.798464
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 39.192228
+Ecg: 95.915497
+Oxi: 88.125442
+Abps: 31.972868
+Abpd: 96.595447
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 40.214535
+Ecg: 95.915497
+Oxi: 88.125442
+Abps: 31.972868
+Abpd: 96.595447
+Glc: 119.819222
+++++++++++++++++++++
+General risk status: 51.3739%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: high risk
+Glc: moderate risk
+Patient_Status: 51.373894
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 53.5885
+| ECG_RISK: 16.385
+| OXIM_RISK: 6.42908
+| ABPS_RISK: 9.34238
+| ABPD_RISK: 67.0678
+| GLC_RISK: 64.6868
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093419228
+*****************************************
+++++++++++++++++++++
+Trm: 40.214535
+Ecg: 95.915497
+Oxi: 73.553009
+Abps: 31.972868
+Abpd: 96.595447
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 40.214535
+Ecg: 95.915497
+Oxi: 73.553009
+Abps: 0.574018
+Abpd: 96.595447
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 40.214535
+Ecg: 92.150572
+Oxi: 73.553009
+Abps: 0.574018
+Abpd: 96.595447
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 39.419528
+Ecg: 92.150572
+Oxi: 73.553009
+Abps: 0.574018
+Abpd: 96.595447
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 39.419528
+Ecg: 92.150572
+Oxi: 73.553009
+Abps: 0.574018
+Abpd: 89.811097
+Glc: 119.819222
+++++++++++++++++++++
+General risk status: 48.3916%
+Term: moderate risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 48.391639
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 41.8894
+| ECG_RISK: 3.83524
+| OXIM_RISK: 10.2251
+| ABPS_RISK: 19.8087
+| ABPD_RISK: 64.1688
+| GLC_RISK: 64.6868
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093420355
+*****************************************
+++++++++++++++++++++
+Trm: 39.419528
+Ecg: 92.150572
+Oxi: 98.000279
+Abps: 0.574018
+Abpd: 89.811097
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 39.419528
+Ecg: 92.150572
+Oxi: 98.000279
+Abps: 13.495742
+Abpd: 89.811097
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 39.419528
+Ecg: 86.322408
+Oxi: 98.000279
+Abps: 13.495742
+Abpd: 89.811097
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 39.419528
+Ecg: 86.322408
+Oxi: 98.000279
+Abps: 13.495742
+Abpd: 81.098618
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 36.891064
+Ecg: 86.322408
+Oxi: 98.000279
+Abps: 13.495742
+Abpd: 81.098618
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 36.891064
+Ecg: 86.322408
+Oxi: 65.028145
+Abps: 13.495742
+Abpd: 81.098618
+Glc: 119.819222
+++++++++++++++++++++
+General risk status: 53.5647%
+Term: low risk
+Ecg: low risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 53.564735
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 2.08917
+| ECG_RISK: 15.592
+| OXIM_RISK: 19.9678
+| ABPS_RISK: 15.5014
+| ABPD_RISK: 25.8339
+| GLC_RISK: 64.6868
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093421645
+*****************************************
+++++++++++++++++++++
+Trm: 38.940393
+Ecg: 86.322408
+Oxi: 65.028145
+Abps: 13.495742
+Abpd: 81.098618
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 38.940393
+Ecg: 86.322408
+Oxi: 65.028145
+Abps: 76.771603
+Abpd: 81.098618
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 38.940393
+Ecg: 92.495825
+Oxi: 65.028145
+Abps: 76.771603
+Abpd: 81.098618
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 40.338774
+Ecg: 92.495825
+Oxi: 65.028145
+Abps: 76.771603
+Abpd: 81.098618
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 40.338774
+Ecg: 92.495825
+Oxi: 65.028145
+Abps: 76.771603
+Abpd: 87.981059
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 40.338774
+Ecg: 92.495825
+Oxi: 66.864337
+Abps: 76.771603
+Abpd: 87.981059
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 8.831112
+Ecg: 92.495825
+Oxi: 66.864337
+Abps: 76.771603
+Abpd: 87.981059
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 8.831112
+Ecg: 92.495825
+Oxi: 66.864337
+Abps: 115.139091
+Abpd: 87.981059
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 8.831112
+Ecg: 120.088771
+Oxi: 66.864337
+Abps: 115.139091
+Abpd: 87.981059
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 1.389838
+Ecg: 120.088771
+Oxi: 66.864337
+Abps: 115.139091
+Abpd: 87.981059
+Glc: 119.819222
+++++++++++++++++++++
+General risk status: 51.8947%
+Term: high risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 51.894668
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 98.5228
+| ECG_RISK: 66.9352
+| OXIM_RISK: 17.8693
+| ABPS_RISK: 18.3797
+| ABPD_RISK: 56.1167
+| GLC_RISK: 64.6868
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093423155
+*****************************************
+++++++++++++++++++++
+Trm: 1.389838
+Ecg: 120.088771
+Oxi: 66.864337
+Abps: 115.139091
+Abpd: 81.418863
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 2.996593
+Ecg: 120.088771
+Oxi: 66.864337
+Abps: 115.139091
+Abpd: 81.418863
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 2.996593
+Ecg: 120.088771
+Oxi: 72.541408
+Abps: 115.139091
+Abpd: 81.418863
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 26.342416
+Ecg: 120.088771
+Oxi: 72.541408
+Abps: 115.139091
+Abpd: 81.418863
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 26.342416
+Ecg: 120.088771
+Oxi: 72.541408
+Abps: 78.688884
+Abpd: 81.418863
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 26.342416
+Ecg: 200.655962
+Oxi: 72.541408
+Abps: 78.688884
+Abpd: 81.418863
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 22.227568
+Ecg: 200.655962
+Oxi: 72.541408
+Abps: 78.688884
+Abpd: 81.418863
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 22.227568
+Ecg: 200.655962
+Oxi: 72.541408
+Abps: 78.688884
+Abpd: 84.217613
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 22.227568
+Ecg: 200.655962
+Oxi: 68.367409
+Abps: 78.688884
+Abpd: 84.217613
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 10.144012
+Ecg: 200.655962
+Oxi: 68.367409
+Abps: 78.688884
+Abpd: 84.217613
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 10.144012
+Ecg: 200.655962
+Oxi: 68.367409
+Abps: 4.285402
+Abpd: 84.217613
+Glc: 119.819222
+++++++++++++++++++++
+++++++++++++++++++++
+Trm: 30.397603
+Ecg: 200.655962
+Oxi: 68.367409
+Abps: 4.285402
+Abpd: 84.217613
+Glc: 119.819222
+++++++++++++++++++++
+General risk status: 47.7826%
+Term: high risk
+Ecg: high risk
+Oxi: low risk
+Abps: low risk
+Abpd: moderate risk
+Glc: moderate risk
+Patient_Status: 47.782557
+
+*****************************************
+PatientStatusInfo#
+| THERM_RISK: 67.6925
+| ECG_RISK: 81.7422
+| OXIM_RISK: 16.1515
+| ABPS_RISK: 18.5715
+| ABPD_RISK: 39.5575
+| GLC_RISK: 64.6868
+| PATIENT_STATE:MODERATE RISK
+Seconds Since Epoch: 1700093424973
+*****************************************
+/g4t1
+/g4t1
