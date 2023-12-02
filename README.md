@@ -40,6 +40,8 @@ $ catkin_make
 ## **Running PASTA**:
 
 ### **T-way Combinations Generation**:
+1. Download the [ACTS tool](https://github.com/usnistgov/combinatorial-testing-tools)
+2.  
 
 ### **Outcome Files**:
 - [1 - SA-BSN](https://github.com/lesunb/bsn) 
