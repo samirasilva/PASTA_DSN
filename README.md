@@ -24,7 +24,7 @@
 BSN_Folder_Path/src/sa-bsn/target_system/components/component/src/g4t1
 ```
 Note: Replace "BSN_Folder_Path" with the path to the BSN folder.
-2. Replace the G4T1.cpp file with the one we provide [here]().
+2. Replace the *G4T1.cpp* file with the one we provide [here]().
 3. Enter this folder:
 ```
 BSN_Folder_Path/src/libbsn/src/generator
