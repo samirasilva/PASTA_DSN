@@ -9,8 +9,8 @@
 
 ## **Required Files**:
 - [1 - ACTS Tool](https://github.com/usnistgov/combinatorial-testing-tools)
-- [2 - PASTA Scripts](https://github.com/samirasilva/PASTA_ICST/tree/main/PASTA%20Scripts)
-- [3 - Random Scripts](https://anonymous.4open.science/r/PASTA_DSN-6E66/Random%20Approach/Random%20Scripts/)
+- [2 - PASTA Scripts](https://anonymous.4open.science/r/PASTA_DSN-6E66/PASTA/PASTA_Scripts/)
+- [3 - Random Scripts](https://anonymous.4open.science/r/PASTA_DSN-6E66/Random_Approach/Random_Scripts/)
   
 ## **Configuring the SA-BSN**:
 1. Download and install the [ROS Melodic for Ubuntu 18.04](http://wiki.ros.org/melodic/Installation/Ubuntu)
