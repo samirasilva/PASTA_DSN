@@ -37,7 +37,7 @@ Note: Replace "BSN_Folder_Path" with the path to the BSN folder.
 $ cd /BSN_Folder_Path/
 $ catkin_make       
 ```
-
+## **Running PASTA**:
 
 ### **Outcome Files**:
 - [1 - SA-BSN](https://github.com/lesunb/bsn) 
