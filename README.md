@@ -47,6 +47,15 @@ $ catkin_make
 4. Click on Edit->Modify... to modify "parameters" or "constraints" for the combinations.
 5. Click on Build->Build to regenerate the t-way combinations.
 6. Finally, save your modifications with System->Save.
+
+### **Converting T-way Combinations into Patients**:
+(Step needed if the previous one has been performed)
+1. Execute the script "conver_tm_into_patient.py" to transform each t-way combination into a patient:
+```
+$ python conver_tm_into_patient.py ./salvarmeuspacientesaqui/ 1_ACTS_BSN_Test_Set_t_2.txt
+
+```
+
    
 ### **Outcome Files**:
 - [1 - SA-BSN](https://github.com/lesunb/bsn) 
