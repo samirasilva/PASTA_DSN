@@ -39,9 +39,13 @@ $ catkin_make
 ```
 ## **Running PASTA**:
 
-### **T-way Combinations Generation**:
-1. Download the [ACTS tool](https://github.com/usnistgov/combinatorial-testing-tools)
-2.  
+### **Regeneration of T-way Combinations**:
+(Skip this step if you want to use the [provided t-way combinations]())
+1. Download the [ACTS 3.2 tool](https://github.com/usnistgov/combinatorial-testing-tools)
+2. Execute the ACTS tool (double click on the jar file)
+3. Click on System->Open... and choose the file "1_ACTS_BSN_Test_Set_t_2.txt" on your computer.
+4. Click on Edit->Modify... to modify "parameters" or "constraints" for the combinations.
+5. 
 
 ### **Outcome Files**:
 - [1 - SA-BSN](https://github.com/lesunb/bsn) 
