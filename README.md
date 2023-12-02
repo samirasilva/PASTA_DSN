@@ -61,7 +61,12 @@ Note: Replace "BSN_Folder_Path" with the path to the BSN folder.
 /BSN_Folder_Path/src/libbsn/src/generator
 ```
 7. Replace the DataGenerator.cpp file with the one we provide [here]().
-8. Open a terminal of Ubuntu and type:
+8. Enter this folder:
+```
+/BSN_Folder_Path/src/sa-bsn/environment/patient/src
+```
+9. Replace the PatientModule.cpp file with the one we provide [here]().
+10. Open a terminal of Ubuntu and type:
 ```
 $ cd /BSN_Folder_Path/
 $ catkin_make       
