@@ -119,17 +119,8 @@ $ catkin_make
 - [1 - ACTS Test Set](https://github.com/samirasilva/PASTA_ICST/blob/main/1_ACTS_BSN_Test_Set_t_2.txt)
 
 
-## How to execute PASTA
 
-To run this project, install it locally using npm:
-
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
-## How to execute the Random Baseline
-
+## How to Download and Install PASTA:
 To run this project, download, unzip and enter the main folder: 
 
 ```
