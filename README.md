@@ -11,28 +11,28 @@
 2. Download and install the [SA-BSN](https://github.com/lesunb/bsn/tree/1c45cd8f4c43e36fcf5665940d5ce7c66b907b31)
 
 ## **Preparing the SA-BSN to PASTA**:
-3. Paste all the [patient files]() to the folder:
+1. Paste all the [patient files]() to the folder:
 ```
 /BSN_Folder_Path/src/sa-bsn/configurations/environment
 ```
 Note: Replace "BSN_Folder_Path" with the path to the BSN folder.
 
-4. Enter this folder:
+2. Enter this folder:
 ```
 /BSN_Folder_Path/src/sa-bsn/target_system/components/component/src/g4t1
 ```
-5. Replace the G4T1.cpp file with the one we provide [here]().
-6. Enter this folder:
+3. Replace the G4T1.cpp file with the one we provide [here]().
+4. Enter this folder:
 ```
 /BSN_Folder_Path/src/libbsn/src/generator
 ```
-7. Replace the DataGenerator.cpp file with the one we provide [here]().
-8. Enter this folder:
+5. Replace the DataGenerator.cpp file with the one we provide [here]().
+6. Enter this folder:
 ```
 /BSN_Folder_Path/src/sa-bsn/environment/patient/src
 ```
-9. Replace the PatientModule.cpp file with the one we provide [here]().
-10. Open a terminal of Ubuntu and type:
+7. Replace the PatientModule.cpp file with the one we provide [here]().
+8. Open a terminal of Ubuntu and type:
 ```
 $ cd /BSN_Folder_Path/
 $ catkin_make       
@@ -45,28 +45,28 @@ $ catkin_make
 - [3 - PASTA Scripts](https://github.com/samirasilva/PASTA_ICST/tree/main/PASTA%20Scripts)
 
 ## **Preparing the SA-BSN to Random**:
-3. Paste the [patient]() to the folder:
+1. Paste the [patient]() to the folder:
 ```
 /BSN_Folder_Path/src/sa-bsn/configurations/environment
 ```
 Note: Replace "BSN_Folder_Path" with the path to the BSN folder.
 
-4. Enter this folder:
+2. Enter this folder:
 ```
 /BSN_Folder_Path/src/sa-bsn/target_system/components/component/src/g4t1
 ```
-5. Replace the G4T1.cpp file with the one we provide [here]().
-6. Enter this folder:
+3. Replace the G4T1.cpp file with the one we provide [here]().
+4. Enter this folder:
 ```
 /BSN_Folder_Path/src/libbsn/src/generator
 ```
-7. Replace the DataGenerator.cpp file with the one we provide [here]().
-8. Enter this folder:
+5. Replace the DataGenerator.cpp file with the one we provide [here]().
+6. Enter this folder:
 ```
 /BSN_Folder_Path/src/sa-bsn/environment/patient/src
 ```
-9. Replace the PatientModule.cpp file with the one we provide [here]().
-10. Open a terminal of Ubuntu and type:
+7. Replace the PatientModule.cpp file with the one we provide [here]().
+8. Open a terminal of Ubuntu and type:
 ```
 $ cd /BSN_Folder_Path/
 $ catkin_make       
