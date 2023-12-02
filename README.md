@@ -45,8 +45,9 @@ $ catkin_make
 2. Execute the ACTS tool (double click on the jar file)
 3. Click on System->Open... and choose the file "1_ACTS_BSN_Test_Set_t_2.txt" on your computer.
 4. Click on Edit->Modify... to modify "parameters" or "constraints" for the combinations.
-5. 
-
+5. Click on Build->Build to regenerate the t-way combinations.
+6. Finally, save your modifications with System->Save.
+   
 ### **Outcome Files**:
 - [1 - SA-BSN](https://github.com/lesunb/bsn) 
 - [2 - ACTS Tool](https://github.com/usnistgov/combinatorial-testing-tools)
