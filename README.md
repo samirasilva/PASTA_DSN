@@ -11,28 +11,23 @@
 2. Download and install the [SA-BSN](https://github.com/lesunb/bsn/tree/1c45cd8f4c43e36fcf5665940d5ce7c66b907b31)
 
 ## **Preparing the SA-BSN to PASTA**:
-1. Paste all the [patient files]() to the folder:
-```
-/BSN_Folder_Path/src/sa-bsn/configurations/environment
-```
-Note: Replace "BSN_Folder_Path" with the path to the BSN folder.
-
-2. Enter this folder:
+1. Enter this folder:
 ```
 /BSN_Folder_Path/src/sa-bsn/target_system/components/component/src/g4t1
 ```
-3. Replace the G4T1.cpp file with the one we provide [here]().
-4. Enter this folder:
+Note: Replace "BSN_Folder_Path" with the path to the BSN folder.
+2. Replace the G4T1.cpp file with the one we provide [here]().
+3. Enter this folder:
 ```
 /BSN_Folder_Path/src/libbsn/src/generator
 ```
-5. Replace the DataGenerator.cpp file with the one we provide [here]().
-6. Enter this folder:
+4. Replace the DataGenerator.cpp file with the one we provide [here]().
+5. Enter this folder:
 ```
 /BSN_Folder_Path/src/sa-bsn/environment/patient/src
 ```
-7. Replace the PatientModule.cpp file with the one we provide [here]().
-8. Open a terminal of Ubuntu and type:
+6. Replace the PatientModule.cpp file with the one we provide [here]().
+7. Open a terminal of Ubuntu and type:
 ```
 $ cd /BSN_Folder_Path/
 $ catkin_make       
@@ -55,8 +50,22 @@ $ catkin_make
 $ python conver_tm_into_patient.py ./save_the_patients_here/ 1_ACTS_BSN_Test_Set_t_2.txt
 
 ```
+### **Running PASTA**:
+1. Paste all the patients in "save_the_patients_here" folder to the folder:
+```
+/BSN_Folder_Path/src/sa-bsn/configurations/environment
+```
+2. Open the terminal in the script folder and type:
+```
+bash script_pasta_dns.sh 'Path_to_Patients_folder' 'number_of_patients' 'execution_time' 'number_of_executions'
+```
+3. To parse the log files, collect Sensor Readings and BSN Outcomes, and compute the Expected Outcome, type:
+```
+python read_output_prob_ty.py './output' 'output_sensor_readings.txt' number_of_patients
 
-   
+```
+Each "output_sensor_readings.txt" file contains the result of a single execution.
+
 ### **Outcome Files**:
 - [1 - SA-BSN](https://github.com/lesunb/bsn) 
 - [2 - ACTS Tool](https://github.com/usnistgov/combinatorial-testing-tools)
