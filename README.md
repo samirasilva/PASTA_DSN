@@ -52,7 +52,7 @@ $ catkin_make
 (Step needed if the previous one has been performed)
 1. Execute the script "conver_tm_into_patient.py" to transform each t-way combination into a patient:
 ```
-$ python conver_tm_into_patient.py ./salvarmeuspacientesaqui/ 1_ACTS_BSN_Test_Set_t_2.txt
+$ python conver_tm_into_patient.py ./save_the_patients_here/ 1_ACTS_BSN_Test_Set_t_2.txt
 
 ```
 
