@@ -25,7 +25,7 @@ Note: Replace "BSN_Folder_Path" with the path to the BSN folder.
 /BSN_Folder_Path/src/libbsn/src/generator
 ```
 7. Replace the DataGenerator.cpp file with the one we provide [here]().
-8. In a terminal of Ubuntu, type:
+8. Open a terminal of Ubuntu and type:
 ```
 $ cd /BSN_Folder_Path/
 $ catkin_make       
