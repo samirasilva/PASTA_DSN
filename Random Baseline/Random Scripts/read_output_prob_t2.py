@@ -53,25 +53,26 @@ def compute_oracle(spo2, hr, temp, sys_bp, dias_bp, glu):
 
 #FORMAT OUTPUT OF THE BSN AND COMPUTE THE ORACLE
 #Example of call: 
-#python read_output_prob_ty.py './output/' 'output_sensor_temporal_series.txt'
+#python read_output_prob_t2.py './output' 'output_sensor_readings.txt' number_of_patients
 #or
-#python read_output_prob_ty.py
+#python read_output_prob_t2.py
 
 def main(argv):
 
-    if(len(sys.argv)==3):
+    if(len(sys.argv)==4):
         BSN_output_folder= sys.argv[1]
-        resulting_file_name = sys.argv[2]      
+        resulting_file_name = sys.argv[2] 
+        number_of_patients= int(sys.argv[3])       
     elif(len(sys.argv)==1):
-        BSN_output_folder= './output/'
-        resulting_file_name = 'output_sensor_temporal_series.txt'
+        BSN_output_folder= './output'
+        resulting_file_name = 'output_sensor_readings.txt'
+        number_of_patients=1
     else:
 	print("Error!")
         exit(0)
 
-    file1 = open(resulting_file_name, "a") 
-    file1.write("Id\t"+"Patient"+"\t"+"Oxi"+"\t"+"Ecg"+"\t"+"Term"+"\t"+"Abps"+"\t"+"Abpd"+"\t"+"Glc\t"+"BSN Outcome\t"+"Expected Outcome\t"+"Difference\t"+"Oxi-Risk"+"\t"+"Ecg-Risk"+"\t"+"Term-Risk"+"\t"+"Abps-Risk"+"\t"+"Abpd-Risk"+"\t"+"Glc-Risk\t"+"Oxi-Sens"+"\t"+"Ecg-Sens"+"\t"+"Term-Sens"+"\t"+"Abps-Sens"+"\t"+"Abpd-Sens"+"\t"+"Glc-Sens\n")
-
+    file1 = open(BSN_output_folder+"/"+resulting_file_name, "w") 
+    file1.write("Id\t"+"Patient"+"\t"+"Oxi"+"\t"+"Ecg"+"\t"+"Term"+"\t"+"Abps"+"\t"+"Abpd"+"\t"+"Glc\t"+"BSN Outcome\t"+"Expected Outcome\t"+"Difference\t"+"Oxi-Risk"+"\t"+"Ecg-Risk"+"\t"+"Term-Risk"+"\t"+"Abps-Risk"+"\t"+"Abpd-Risk"+"\t"+"Glc-Risk\t"+"Oxi-Sens"+"\t"+"Ecg-Sens"+"\t"+"Term-Sens"+"\t"+"Abps-Sens"+"\t"+"Abpd-Sens"+"\t"+"Glc-Sens\t"+"Timestamp\n")
 
     term_sensor="0"
     ecg_sensor="0"
@@ -85,8 +86,8 @@ def main(argv):
     id_outcome=0
     id_oracle=0
     id_difference=0
-    for i in range(0,278):
-        with open(BSN_output_folder+'g4t1_'+str(i)+'-1-stdout.log') as f:
+    for i in range(0,number_of_patients):
+        with open(BSN_output_folder+'/g4t1_'+str(i)+'-1-stdout.log') as f:
             x = f.readline() 
             for line in f: 
 
@@ -134,6 +135,9 @@ def main(argv):
                     if(line.startswith("++++++++++++++++++++")):
                             sensor_values=False           
 
+                if(line.startswith("Seconds Since Epoch:")):
+                    time=line[20:(len(line)-1)]
+
                 if(line.startswith("| PATIENT_STATE:")):
                     resultado=line[16:(len(line)-1)]
                     if(term!="unknown" and ecg!="unknown" and oxi!="unknown" and abps!="unknown" and abpd!="unknown" and glc!="unknown"):
@@ -166,7 +170,7 @@ def main(argv):
                            id_oracle=9999999999999
                         id_difference=abs(id_outcome-id_oracle)
 
-                        testcase = str(id)+"\t"+str(i)+"\t"+oxi+"\t"+ecg+"\t"+term+"\t"+abps+"\t"+abpd+"\t"+glc+"\t"+resultado+"\t"+oracle+"\t"+str(id_difference)+"\t"+oxi_risk+"\t"+ecg_risk+"\t"+term_risk+"\t"+abps_risk+"\t"+abpd_risk+"\t"+glc_risk+"\t"+oxi_sensor+"\t"+ecg_sensor+"\t"+term_sensor+"\t"+abps_sensor+"\t"+abpd_sensor+"\t"+glc_sensor+"\n"
+                        testcase = str(id)+"\t"+str(i)+"\t"+oxi+"\t"+ecg+"\t"+term+"\t"+abps+"\t"+abpd+"\t"+glc+"\t"+resultado+"\t"+oracle+"\t"+str(id_difference)+"\t"+oxi_risk+"\t"+ecg_risk+"\t"+term_risk+"\t"+abps_risk+"\t"+abpd_risk+"\t"+glc_risk+"\t"+oxi_sensor+"\t"+ecg_sensor+"\t"+term_sensor+"\t"+abps_sensor+"\t"+abpd_sensor+"\t"+glc_sensor+"\t"+time+"\n"
 		        id=id+1
                         file1.write(testcase)
     file1.close()
