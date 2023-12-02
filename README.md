@@ -12,8 +12,9 @@
 - 2 - Download and install the [SA-BSN](https://github.com/lesunb/bsn/tree/1c45cd8f4c43e36fcf5665940d5ce7c66b907b31)
 - 3 - Paste all the patient files to the folder:
 ```
-/**BSN_Folder_Path**/src/sa-bsn/configurations/environment
+/BSN_Folder_Path/src/sa-bsn/configurations/environment
 ```
+Note: Replace "BSN_Folder_Path" with the path to the BSN folder.
 - 4 
 
 ### **Outcome Files**:
