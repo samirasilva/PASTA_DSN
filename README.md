@@ -67,7 +67,7 @@ bash script_pasta_dns.sh 'Path_to_Patients_folder' 'number_of_patients' 'executi
 ```
 3. To parse the log files, collect Sensor Readings and BSN Outcomes, and compute the Expected Outcome, type:
 ```
-python read_output_prob_ty.py './output' 'output_sensor_readings.txt' number_of_patients
+python read_output_prob_t2.py './output' 'output_sensor_readings.txt' number_of_patients
 
 ```
 Each "output_sensor_readings.txt" file contains the result of a single execution.
@@ -84,32 +84,42 @@ Each "output_sensor_readings.txt" file contains the result of a single execution
 - 
 
 ## **Preparing the SA-BSN to Random**:
-1. Paste the [patient]() to the folder:
-```
-/BSN_Folder_Path/src/sa-bsn/configurations/environment
-```
-Note: Replace "BSN_Folder_Path" with the path to the BSN folder.
-
-2. Enter this folder:
+1. Enter this folder:
 ```
 /BSN_Folder_Path/src/sa-bsn/target_system/components/component/src/g4t1
 ```
-3. Replace the G4T1.cpp file with the one we provide [here]().
-4. Enter this folder:
+Note: Replace "BSN_Folder_Path" with the path to the BSN folder.
+2. Replace the G4T1.cpp file with the one we provide [here]().
+3. Enter this folder:
 ```
 /BSN_Folder_Path/src/libbsn/src/generator
 ```
-5. Replace the DataGenerator.cpp file with the one we provide [here]().
-6. Enter this folder:
+4. Replace the DataGenerator.cpp file with the one we provide [here]().
+5. Enter this folder:
 ```
 /BSN_Folder_Path/src/sa-bsn/environment/patient/src
 ```
-7. Replace the PatientModule.cpp file with the one we provide [here]().
-8. Open a terminal of Ubuntu and type:
+6. Replace the PatientModule.cpp file with the one we provide [here]().
+7. Open a terminal of Ubuntu and type:
 ```
 $ cd /BSN_Folder_Path/
 $ catkin_make       
 ```
+### **Running Random**:
+1. Paste the [patient]() to the folder:
+```
+/BSN_Folder_Path/src/sa-bsn/configurations/environment
+```
+2. Open the terminal in the script folder and type:
+```
+bash script_pasta_dns.sh 'Path_to_Patients_folder' 'number_of_patients' 'execution_time' 'number_of_executions'
+```
+3. To parse the log files, collect Sensor Readings and BSN Outcomes, and compute the Expected Outcome, type:
+```
+python read_output_prob_t2.py './output' 'output_sensor_readings.txt' number_of_patients
+
+```
+Each "output_sensor_readings.txt" file contains the result of a single execution.
 
 ### **Outcome Files**:
 - [1 - ACTS Test Set](https://github.com/samirasilva/PASTA_ICST/blob/main/1_ACTS_BSN_Test_Set_t_2.txt)
