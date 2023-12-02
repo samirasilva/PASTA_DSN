@@ -112,11 +112,11 @@ $ catkin_make
 ```
 2. Open the terminal in the script folder and type:
 ```
-bash script_pasta_dns.sh 'Path_to_Patients_folder' 'number_of_patients' 'execution_time' 'number_of_executions'
+script_baseline_dns.sh 'Path_to_Patients_folder' 1 'execution_time' 'number_of_executions'
 ```
 3. To parse the log files, collect Sensor Readings and BSN Outcomes, and compute the Expected Outcome, type:
 ```
-python read_output_prob_t2.py './output' 'output_sensor_readings.txt' number_of_patients
+python read_output_prob_t2.py './output' 'output_sensor_readings.txt' 1
 
 ```
 Each "output_sensor_readings.txt" file contains the result of a single execution.
