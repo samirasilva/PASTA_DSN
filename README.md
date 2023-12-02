@@ -15,7 +15,13 @@
 /BSN_Folder_Path/src/sa-bsn/configurations/environment
 ```
 Note: Replace "BSN_Folder_Path" with the path to the BSN folder.
-- 4 
+- 4 - Enter this folder:
+```
+/BSN_Folder_Path/src/sa-bsn/target_system/components/component/src/g4t1
+```
+- 5 - Replace the G4T1.cpp file with the one we provide [here]().
+- 
+  
 
 ### **Outcome Files**:
 - [1 - SA-BSN](https://github.com/lesunb/bsn) 
