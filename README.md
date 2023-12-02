@@ -20,8 +20,17 @@ Note: Replace "BSN_Folder_Path" with the path to the BSN folder.
 /BSN_Folder_Path/src/sa-bsn/target_system/components/component/src/g4t1
 ```
 - 5 - Replace the G4T1.cpp file with the one we provide [here]().
-- 
-  
+- 6 - Enter this folder:
+```
+/BSN_Folder_Path/src/libbsn/src/generator
+```
+- 7 - Replace the DataGenerator.cpp file with the one we provide [here]().
+- 8 - In a terminal of Ubuntu, type:
+```
+       $ cd /BSN_Folder_Path/
+       $ catkin_make
+       
+```
 
 ### **Outcome Files**:
 - [1 - SA-BSN](https://github.com/lesunb/bsn) 
