@@ -39,6 +39,8 @@ $ catkin_make
 ```
 ## **Running PASTA**:
 
+### **T-way Combinations Generation**:
+
 ### **Outcome Files**:
 - [1 - SA-BSN](https://github.com/lesunb/bsn) 
 - [2 - ACTS Tool](https://github.com/usnistgov/combinatorial-testing-tools)
