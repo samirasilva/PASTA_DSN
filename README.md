@@ -10,7 +10,10 @@
 ## **PASTA**:
 - 1 - Download and install the [ROS Melodic for Ubuntu 18.04](http://wiki.ros.org/melodic/Installation/Ubuntu)
 - 2 - Download and install the [SA-BSN](https://github.com/lesunb/bsn/tree/1c45cd8f4c43e36fcf5665940d5ce7c66b907b31)
-- 3 - 
+- 3 - Paste all the patient files to the folder:
+/**BSN_Folder_Path**/src/sa-bsn/configurations/environment
+
+- 4 
 
 ### **Outcome Files**:
 - [1 - SA-BSN](https://github.com/lesunb/bsn) 
