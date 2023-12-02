@@ -11,7 +11,7 @@
 2. Download and install the [SA-BSN](https://github.com/lesunb/bsn/tree/1c45cd8f4c43e36fcf5665940d5ce7c66b907b31)
 
 ## **Preparing the SA-BSN to PASTA**:
-3. Paste all the patient files to the folder:
+3. Paste all the (patient files)[] to the folder:
 ```
 /BSN_Folder_Path/src/sa-bsn/configurations/environment
 ```
