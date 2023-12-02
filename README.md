@@ -38,7 +38,7 @@ $ catkin_make
 - [2 - ACTS Tool](https://github.com/usnistgov/combinatorial-testing-tools)
 - [3 - PASTA Scripts](https://github.com/samirasilva/PASTA_ICST/tree/main/PASTA%20Scripts)
 
-## **Random Approach**:
+## **Preparing the SA-BSN to Random**:
 
 ### **Outcome Files**:
 
