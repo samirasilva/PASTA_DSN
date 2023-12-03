@@ -105,7 +105,7 @@ $ (cd bsn_path ; catkin_make)
 ### **Running Random**:
 1. Type:
 ```
-Random_Approach/Random_Scripts/script_baseline_dns.sh Random_Approach/Output_Files/1_Test_Patients 1 'execution_time' 'number_of_executions'
+bash Random_Approach/Random_Scripts/script_baseline_dns.sh Random_Approach/Output_Files/1_Test_Patients 1 'execution_time' 'number_of_executions'
 ```
 To compare PASTA to Random, the `execution_time` should be equal to the number of patients in PASTA x execution time in PASTA (e.g., 278x30=8340 seconds).
 `number_of_executions` is the number of times that Random should be run (e.g., 10 times).
