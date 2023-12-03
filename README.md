@@ -46,8 +46,8 @@ $ catkin_make
 #### **Regeneration of T-way Combinations**:
 *(Skip this step if you want to use the [provided t-way combinations](https://anonymous.4open.science/r/PASTA_DSN-6E66/PASTA/Output_Files/1_ACTS_BSN_Test_Set_t2/1_ACTS_BSN_Test_Set_t_2.txt))*
 
-1. Download the [ACTS 3.2 tool](https://github.com/usnistgov/combinatorial-testing-tools)
-2. Execute the ACTS tool (double click on the jar file)
+1. Download the [ACTS 3.2 tool](https://github.com/usnistgov/combinatorial-testing-tools).
+2. Execute the ACTS tool (double-click on the *jar* file).
 3. Click on System->Open... and choose the file "1_ACTS_BSN_Test_Set_t_2.txt" on your computer.
 4. Click on Edit->Modify... to modify "parameters" or "constraints" for the combinations.
 5. Click on Build->Build to regenerate the t-way combinations.
