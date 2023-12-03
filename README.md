@@ -9,8 +9,10 @@
 
 ## **Required Files**:
 - [1 - ACTS Tool](https://github.com/usnistgov/combinatorial-testing-tools)
-- [2 - PASTA Scripts](https://github.com/samirasilva/PASTA_ICST/tree/main/PASTA%20Scripts)
-- [3 - Random Scripts](https://anonymous.4open.science/r/PASTA_DSN-6E66/Random%20Approach/Random%20Scripts/)
+- [2 - PASTA Scripts](https://anonymous.4open.science/r/PASTA_DSN-6E66/PASTA/PASTA_Scripts/)
+- [3 - Random Scripts](https://anonymous.4open.science/r/PASTA_DSN-6E66/Random_Approach/Random_Scripts/)
+- [4 - PASTA Replacement Files](https://anonymous.4open.science/r/PASTA_DSN-6E66/PASTA/BSN_Files_to_Replace/)
+- [5 - Random Replacement Files](https://anonymous.4open.science/r/PASTA_DSN-6E66/Random_Approach/BSN_Files_to_Replace/)
   
 ## **Configuring the SA-BSN**:
 1. Download and install the [ROS Melodic for Ubuntu 18.04](http://wiki.ros.org/melodic/Installation/Ubuntu)
@@ -19,13 +21,13 @@
 ## **Preparing the SA-BSN to PASTA**:
 1. Enter this folder:
 ```
-/BSN_Folder_Path/src/sa-bsn/target_system/components/component/src/g4t1
+BSN_Folder_Path/src/sa-bsn/target_system/components/component/src/g4t1
 ```
 Note: Replace "BSN_Folder_Path" with the path to the BSN folder.
-2. Replace the G4T1.cpp file with the one we provide [here]().
+2. Replace the *G4T1.cpp* file with the one we provide [here]().
 3. Enter this folder:
 ```
-/BSN_Folder_Path/src/libbsn/src/generator
+BSN_Folder_Path/src/libbsn/src/generator
 ```
 4. Replace the DataGenerator.cpp file with the one we provide [here]().
 5. Enter this folder:
@@ -35,7 +37,7 @@ Note: Replace "BSN_Folder_Path" with the path to the BSN folder.
 6. Replace the PatientModule.cpp file with the one we provide [here]().
 7. Open a terminal of Ubuntu and type:
 ```
-$ cd /BSN_Folder_Path/
+$ cd BSN_Folder_Path/
 $ catkin_make       
 ```
 ## **Running PASTA**:
@@ -59,7 +61,7 @@ $ python conver_tm_into_patient.py ./save_the_patients_here/ 1_ACTS_BSN_Test_Set
 ### **Running PASTA**:
 1. Paste all the patients in "save_the_patients_here" folder to the folder:
 ```
-/BSN_Folder_Path/src/sa-bsn/configurations/environment
+BSN_Folder_Path/src/sa-bsn/configurations/environment
 ```
 2. Open the terminal in the script folder and type:
 ```
@@ -86,18 +88,18 @@ Each "output_sensor_readings.txt" file contains the result of a single execution
 ## **Preparing the SA-BSN to Random**:
 1. Enter this folder:
 ```
-/BSN_Folder_Path/src/sa-bsn/target_system/components/component/src/g4t1
+BSN_Folder_Path/src/sa-bsn/target_system/components/component/src/g4t1
 ```
 Note: Replace "BSN_Folder_Path" with the path to the BSN folder.
 2. Replace the G4T1.cpp file with the one we provide [here]().
 3. Enter this folder:
 ```
-/BSN_Folder_Path/src/libbsn/src/generator
+BSN_Folder_Path/src/libbsn/src/generator
 ```
 4. Replace the DataGenerator.cpp file with the one we provide [here]().
 5. Enter this folder:
 ```
-/BSN_Folder_Path/src/sa-bsn/environment/patient/src
+BSN_Folder_Path/src/sa-bsn/environment/patient/src
 ```
 6. Replace the PatientModule.cpp file with the one we provide [here]().
 7. Open a terminal of Ubuntu and type:
@@ -108,7 +110,7 @@ $ catkin_make
 ### **Running Random**:
 1. Paste the [patient]() to the folder:
 ```
-/BSN_Folder_Path/src/sa-bsn/configurations/environment
+BSN_Folder_Path/src/sa-bsn/configurations/environment
 ```
 2. Open the terminal in the script folder and type:
 ```
