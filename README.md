@@ -60,6 +60,8 @@ $ catkin_make
 $ python conver_tm_into_patient.py ./save_the_patients_here/ 1_ACTS_BSN_Test_Set_t_2.txt
 
 ```
+'./save_the_patients_here/' is the folder where you want to save the patients.
+
 #### **Executing PASTA**:
 1. Paste all the patients in "save_the_patients_here" folder to the folder:
 ```
