@@ -31,7 +31,7 @@ $ \cp PASTA/BSN_Files_to_Replace/DataGenerator.cpp bsn_path/src/sa-bsn/src/libbs
 ```
 $ \cp PASTA/BSN_Files_to_Replace/PatientModule.cpp bsn_path/src/sa-bsn/environment/patient/src/PatientModule.cpp
 ```
-4. Open a terminal of Ubuntu and type:
+4. Type:
 ```
 $ cd bsn_path
 $ catkin_make       
