@@ -124,18 +124,3 @@ Each "output_sensor_readings.txt" file contains the result of a single execution
 ### **Outcome Files**:
 - [1 - ACTS Test Set](https://github.com/samirasilva/PASTA_ICST/blob/main/1_ACTS_BSN_Test_Set_t_2.txt)
 
-## How to Download and Install PASTA:
-To run this project, download, unzip and enter the main folder: 
-
-```
-$ wget --no-check-certificate --content-disposition https://github.com/samirasilva/PASTA_ICST/archive/refs/heads/main.zip
-$ unzip PASTA_ICST-main.zip -d PASTA_ICST-main
-$ cd PASTA_ICST-main
-```
-
-## **Required Files**:
-- [1 - ACTS Tool](https://github.com/usnistgov/combinatorial-testing-tools)
-- [2 - PASTA Scripts](https://anonymous.4open.science/r/PASTA_DSN-6E66/PASTA/PASTA_Scripts/)
-- [3 - Random Scripts](https://anonymous.4open.science/r/PASTA_DSN-6E66/Random_Approach/Random_Scripts/)
-- [4 - PASTA Replacement Files](https://anonymous.4open.science/r/PASTA_DSN-6E66/PASTA/BSN_Files_to_Replace/)
-- [5 - Random Replacement Files](https://anonymous.4open.science/r/PASTA_DSN-6E66/Random_Approach/BSN_Files_to_Replace/)
