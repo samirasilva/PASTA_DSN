@@ -50,21 +50,26 @@ $ (cd bsn_path ; catkin_make)
 6. Finally, save your modifications with *System->Save*.
 
 #### **2. Converting T-way Combinations into Patients**:
+*(Step needed only if the previous one has been performed)*
 
-*(Step needed if the previous one has been performed)*
-1. Execute the script `conver_tm_into_patient.py` to transform each t-way combination into a patient:
+1. Execute the script `conver_tm_into_patient.py` to transform each a t-way combination into a patient:
 ```
-$ python PASTA_DSN-6E66/PASTA/PASTA_Scripts/conver_tm_into_patient.py ./save_the_patients_here/ PASTA_DSN-6E66/PASTA/Output_Files/1_ACTS_BSN_Test_Set_t2/1_ACTS_BSN_Test_Set_t_2.txt
+$ python PASTA/PASTA_Scripts/conver_tm_into_patient.py PASTA/Output_Files/2_Test_Patients PASTA/Output_Files/1_ACTS_BSN_Test_Set_t2/1_ACTS_BSN_Test_Set_t_2.txt
 
 ```
-`./save_the_patients_here/` is the folder where you want to save the patients.
+`PASTA/Output_Files/2_Test_Patients` is the folder where you want to save the patients.
 
 #### **3. Executing PASTA**:
 1. Open the terminal and type:
 ```
-bash PASTA_DSN-6E66/PASTA/PASTA_Scripts/script_pasta_dns.sh 'Path_to_Patients_folder' 'number_of_patients' 'execution_time' 'number_of_executions'
+bash PASTA/PASTA_Scripts/script_pasta_dns.sh PASTA/Output_Files/2_Test_Patients 'number_of_patients' 'execution_time' 'number_of_executions'
 ```
-3. To parse the log files, collect Sensor Readings and BSN Outcomes, and compute the Expected Outcome, type:
+Note: 
+Replace `number_of_patients` with the number of patient files in `PASTA/Output_Files/2_Test_Patients` (e.g., 278 patients).
+`execution_time` determines how much time each patient should be run (e.g., 30 seconds).
+`number_of_executions` is the amount of times that PASTA should be run (e.g, 10 times).
+
+2. To parse the log files, collect Sensor Readings and BSN Outcomes, and compute the Expected Outcome, type:
 ```
 python read_output_prob_t2.py './save_the_patients_here' 'output_sensor_readings.txt' number_of_patients
 
