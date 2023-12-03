@@ -20,9 +20,9 @@ def main(argv):
        print("Error!")
        exit(0)
 
-   if not os.path.isdir(patients_folder): 
-       os.makedirs(patients_folder) 
-
+   if os.path.isdir(patients_folder):
+       os.system("rm -R "+patients_folder)
+   os.makedirs(patients_folder)
 
    tm_ox = [[0, 0, 0, 0,0], [0, 0, 0, 0,0],  [0, 0, 0, 0,0], [0, 0, 0, 0,0], [0, 0, 0, 0,0]]
    tm_hr = [[0, 0, 0, 0,0], [0, 0, 0, 0,0],  [0, 0, 0, 0,0], [0, 0, 0, 0,0], [0, 0, 0, 0,0]]
