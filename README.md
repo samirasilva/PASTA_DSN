@@ -21,15 +21,15 @@ $ cd PASTA_DSN-6E66/
 ### **Preparing the SA-BSN to PASTA**:
 1. Replace the *G4T1.cpp* file:
 ```
-$ \cp PASTA/BSN_Files_to_Replace/G4T1.cpp bsn/src/sa-bsn/target_system/components/component/src/g4t1/G4T1.cpp
+$ \cp PASTA/BSN_Files_to_Replace/G4T1.cpp BSN_Folder_Path/src/sa-bsn/target_system/components/component/src/g4t1/G4T1.cpp
 ```
 2. Replace the *DataGenerator.cpp* file:
 ```
-$ \cp PASTA/BSN_Files_to_Replace/DataGenerator.cpp bsn/src/sa-bsn/src/libbsn/src/generator/DataGenerator.cpp
+$ \cp PASTA/BSN_Files_to_Replace/DataGenerator.cpp BSN_Folder_Path/src/sa-bsn/src/libbsn/src/generator/DataGenerator.cpp
 ```
 3. Replace the *PatientModule.cpp* file:
 ```
-$ \cp PASTA/BSN_Files_to_Replace/PatientModule.cpp bsn/src/sa-bsn/environment/patient/src/PatientModule.cpp
+$ \cp PASTA/BSN_Files_to_Replace/PatientModule.cpp BSN_Folder_Path/src/sa-bsn/environment/patient/src/PatientModule.cpp
 ```
 4. Open a terminal of Ubuntu and type:
 ```
