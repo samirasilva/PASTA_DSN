@@ -43,7 +43,7 @@ $ catkin_make
 <sub>(Replace "BSN_Folder_Path" with the path to the BSN folder.)</sub>
 ### **Running PASTA**:
 
-#### **Regeneration of T-way Combinations**:
+#### **Generation of T-way Combinations**:
 *(Skip this step if you want to use the [provided t-way combinations](https://anonymous.4open.science/r/PASTA_DSN-6E66/PASTA/Output_Files/1_ACTS_BSN_Test_Set_t2/1_ACTS_BSN_Test_Set_t_2.txt))*
 
 1. Download the [ACTS 3.2 tool](https://github.com/usnistgov/combinatorial-testing-tools).
