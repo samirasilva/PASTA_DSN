@@ -102,7 +102,7 @@ $ (cd bsn_path ; catkin_make)
 <sub>(Replace "bsn_path" with the path to the BSN folder.)</sub>
 
 ### **Running Random**:
-1. Paste the [patient]() to the folder:
+1. Paste the [patient](https://anonymous.4open.science/r/PASTA_DSN-6E66/Random_Approach/Output_Files/1_Test_Patients/patient_0.launch) to the folder:
 ```
 BSN_Folder_Path/src/sa-bsn/configurations/environment
 ```
