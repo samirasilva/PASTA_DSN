@@ -26,10 +26,8 @@ $ python3 src/download.py --url https://anonymous.4open.science/r/PASTA_DSN-6E66
 
 ## PASTA
 ### **Preparing the SA-BSN to PASTA**:
-1. Enter this folder:
-```
-BSN_Folder_Path/src/sa-bsn/target_system/components/component/src/g4t1
-```
+1. Enter the folder `BSN_Folder_Path/src/sa-bsn/target_system/components/component/src/g4t1`
+
 Note: Replace "BSN_Folder_Path" with the path to the BSN folder.
 2. Replace the *G4T1.cpp* file with the one we provide [here](https://anonymous.4open.science/r/PASTA_DSN-6E66/PASTA/BSN_Files_to_Replace/G4T1.cpp).
 3. Enter this folder:
