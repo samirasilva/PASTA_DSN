@@ -103,14 +103,19 @@ $ (cd bsn_path ; catkin_make)
 <sub>(Replace "bsn_path" with the path to the BSN folder.)</sub>
 
 ### **Running Random**:
-1. Type:
+1. Unzip the Random Files:
+```
+$ (cd Random_Approach/Output_Files/2_BSN_Logs ; for f in *.tar.xz; do tar -xvf "$f"; done)
+$ (cd Random_Approach/Output_Files/3_Sensor_Readings_BSN_Outcome_and_Expected_Outcome ; for f in *.tar.xz; do tar -xvf "$f"; done)
+```
+2. Type:
 ```
 bash Random_Approach/Random_Scripts/script_baseline_dns.sh Random_Approach/Output_Files/1_Test_Patients 1 'execution_time' 'number_of_executions'
 ```
 To compare PASTA to Random, the `execution_time` should be equal to the number of patients in PASTA x execution time in PASTA (e.g., 278x30=8340 seconds).
 `number_of_executions` is the number of times that Random should be run (e.g., 10 times).
 
-2. To parse the log files, collect Sensor Readings and BSN Outcomes, and compute the Expected Outcome, type:
+3. To parse the log files, collect Sensor Readings and BSN Outcomes, and compute the Expected Outcome, type:
 ```
 bash  Random_Approach/Random_Scripts/read_all_output.sh 1 'number_of_executions'
 ```
