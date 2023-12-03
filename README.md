@@ -64,17 +64,13 @@ $ python PASTA_DSN-6E66/PASTA/PASTA_Scripts/conver_tm_into_patient.py ./save_the
 `./save_the_patients_here/` is the folder where you want to save the patients.
 
 #### **Executing PASTA**:
-1. Paste all the patients in "save_the_patients_here" folder to the folder:
+1. Open the terminal and type:
 ```
-BSN_Folder_Path/src/sa-bsn/configurations/environment
-```
-2. Open the terminal in the script folder and type:
-```
-bash script_pasta_dns.sh 'Path_to_Patients_folder' 'number_of_patients' 'execution_time' 'number_of_executions'
+bash PASTA_DSN-6E66/PASTA/PASTA_Scripts/script_pasta_dns.sh 'Path_to_Patients_folder' 'number_of_patients' 'execution_time' 'number_of_executions'
 ```
 3. To parse the log files, collect Sensor Readings and BSN Outcomes, and compute the Expected Outcome, type:
 ```
-python read_output_prob_t2.py './output' 'output_sensor_readings.txt' number_of_patients
+python read_output_prob_t2.py './save_the_patients_here' 'output_sensor_readings.txt' number_of_patients
 
 ```
 Each "output_sensor_readings.txt" file contains the result of a single execution.
