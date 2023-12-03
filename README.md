@@ -33,8 +33,7 @@ $ \cp PASTA/BSN_Files_to_Replace/PatientModule.cpp bsn_path/src/sa-bsn/environme
 ```
 4. Build the SA-BSN:
 ```
-$ cd bsn_path
-$ catkin_make       
+$ (cd bsn_path ; catkin_make)
 ```
 <sub>(Replace "bsn_path" with the path to the BSN folder.)</sub>
 
