@@ -76,15 +76,10 @@ bash  PASTA/PASTA_Scripts/read_all_output.sh 'number_of_patients' 'number_of_exe
 ```
 
 #### **Outcome Files**:
-- [1 - SA-BSN](https://github.com/lesunb/bsn) 
-- [2 - ACTS Tool](https://github.com/usnistgov/combinatorial-testing-tools)
-- [3 - PASTA Scripts](https://github.com/samirasilva/PASTA_ICST/tree/main/PASTA%20Scripts)
-
 - [1 - ACTS Test Set](https://github.com/samirasilva/PASTA_ICST/blob/main/1_ACTS_BSN_Test_Set_t_2.txt) (Configuration of the ACTS tool and the output (transition matrices))
 - [2 - Test Patients](https://github.com/samirasilva/PASTA_ICST/tree/main/2_Test_Patients) (Configuration File for the BSN)
-- [3 - Sensor Time Series and BSN Outcome](https://github.com/samirasilva/PASTA_ICST/tree/main/3_Sensor_Time_Series_And_BSN_Outcomes)
-- [4 - Sensor Time Series, BSN Outcome and Expected Outcome](https://github.com/samirasilva/PASTA_ICST/tree/main/4_Sensor_Time_Series_BSN_Outcome_and_Expected_Outcome)
-- 
+- [3 - Sensor Readings, BSN Outcomes and Expected Outcomes](https://github.com/samirasilva/PASTA_ICST/tree/main/3_Sensor_Time_Series_And_BSN_Outcomes)
+  
 ## Random
 ### **Preparing the SA-BSN to Random**:
 1. Enter this folder:
