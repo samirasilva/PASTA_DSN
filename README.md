@@ -18,7 +18,8 @@
 1. Download and install the [ROS Melodic for Ubuntu 18.04](http://wiki.ros.org/melodic/Installation/Ubuntu)
 2. Download and install the [SA-BSN](https://github.com/lesunb/bsn/tree/1c45cd8f4c43e36fcf5665940d5ce7c66b907b31)
 
-## **Preparing the SA-BSN to PASTA**:
+## PASTA
+### **Preparing the SA-BSN to PASTA**:
 1. Enter this folder:
 ```
 BSN_Folder_Path/src/sa-bsn/target_system/components/component/src/g4t1
@@ -40,9 +41,9 @@ BSN_Folder_Path/src/libbsn/src/generator
 $ cd BSN_Folder_Path/
 $ catkin_make       
 ```
-## **Running PASTA**:
+### **Running PASTA**:
 
-### **Regeneration of T-way Combinations**:
+#### **Regeneration of T-way Combinations**:
 (Skip this step if you want to use the [provided t-way combinations]())
 1. Download the [ACTS 3.2 tool](https://github.com/usnistgov/combinatorial-testing-tools)
 2. Execute the ACTS tool (double click on the jar file)
@@ -51,14 +52,14 @@ $ catkin_make
 5. Click on Build->Build to regenerate the t-way combinations.
 6. Finally, save your modifications with System->Save.
 
-### **Converting T-way Combinations into Patients**:
+#### **Converting T-way Combinations into Patients**:
 (Step needed if the previous one has been performed)
 1. Execute the script "conver_tm_into_patient.py" to transform each t-way combination into a patient:
 ```
 $ python conver_tm_into_patient.py ./save_the_patients_here/ 1_ACTS_BSN_Test_Set_t_2.txt
 
 ```
-### **Running PASTA**:
+#### **Executing PASTA**:
 1. Paste all the patients in "save_the_patients_here" folder to the folder:
 ```
 BSN_Folder_Path/src/sa-bsn/configurations/environment
@@ -74,7 +75,7 @@ python read_output_prob_t2.py './output' 'output_sensor_readings.txt' number_of_
 ```
 Each "output_sensor_readings.txt" file contains the result of a single execution.
 
-### **Outcome Files**:
+#### **Outcome Files**:
 - [1 - SA-BSN](https://github.com/lesunb/bsn) 
 - [2 - ACTS Tool](https://github.com/usnistgov/combinatorial-testing-tools)
 - [3 - PASTA Scripts](https://github.com/samirasilva/PASTA_ICST/tree/main/PASTA%20Scripts)
@@ -84,8 +85,8 @@ Each "output_sensor_readings.txt" file contains the result of a single execution
 - [3 - Sensor Time Series and BSN Outcome](https://github.com/samirasilva/PASTA_ICST/tree/main/3_Sensor_Time_Series_And_BSN_Outcomes)
 - [4 - Sensor Time Series, BSN Outcome and Expected Outcome](https://github.com/samirasilva/PASTA_ICST/tree/main/4_Sensor_Time_Series_BSN_Outcome_and_Expected_Outcome)
 - 
-
-## **Preparing the SA-BSN to Random**:
+## Random
+### **Preparing the SA-BSN to Random**:
 1. Enter this folder:
 ```
 BSN_Folder_Path/src/sa-bsn/target_system/components/component/src/g4t1
