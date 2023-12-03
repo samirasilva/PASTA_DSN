@@ -71,10 +71,9 @@ Replace `number_of_patients` with the number of patient files in `PASTA/Output_F
 
 2. To parse the log files, collect Sensor Readings and BSN Outcomes, and compute the Expected Outcome, type:
 ```
-python read_output_prob_t2.py './save_the_patients_here' 'output_sensor_readings.txt' number_of_patients
+bash  PASTA/PASTA_Scripts/read_all_output.sh 'number_of_patients' 'number_of_executions'
 
 ```
-Each "output_sensor_readings.txt" file contains the result of a single execution.
 
 #### **Outcome Files**:
 - [1 - SA-BSN](https://github.com/lesunb/bsn) 
