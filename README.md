@@ -19,7 +19,7 @@ $ cd PASTA_DSN-6E66/
 
 ## PASTA
 ### **Preparing the SA-BSN to PASTA**:
-1. Enter the folder `BSN_Folder_Path/src/sa-bsn/target_system/components/component/src/g4t1`
+1. Enter the folder `bsn/src/sa-bsn/target_system/components/component/src/g4t1`
 2. Replace the *G4T1.cpp* file with the one we provide [here](https://anonymous.4open.science/r/PASTA_DSN-6E66/PASTA/BSN_Files_to_Replace/G4T1.cpp).
 3. Enter the folder `BSN_Folder_Path/src/libbsn/src/generator`
 4. Replace the *DataGenerator.cpp* file with the one we provide [here](https://anonymous.4open.science/r/PASTA_DSN-6E66/PASTA/BSN_Files_to_Replace/DataGenerator.cpp).
