@@ -5,14 +5,6 @@
 **Submitted to**: 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2024)
 
 **Abstract**: Body Sensor Networks (BSNs) have emerged from a recent thrust on wearable biosensor technology development. They provide an inexpensive means to continuously monitor the health status of patients and timely detect potential risks. Notwithstanding the growing interest attracted by BSNs and their critical nature, in the literature, there is a lack of testing approaches for BSNs. In this work, we fill this gap and propose PASTA (PAtient Simulation for Testing of bsn Applications), a novel model-based testing approach that mixes Combinatorial Testing and Markov Chains simulation to test a BSN. We simulate a patient by considering a set of sensors and by mimicking the trend of each sensor via a Discrete Time Markov Chain (DTMC). We evaluate PASTA by applying it to test a self-adaptive BSN system from the literature, the SA-BSN (Self-Adaptive Body Sensor Network). PASTA was able to detect some unknown failures and showed better effectiveness when compared to a random baseline. 
-
-
-## **Required Files**:
-- [1 - ACTS Tool](https://github.com/usnistgov/combinatorial-testing-tools)
-- [2 - PASTA Scripts](https://anonymous.4open.science/r/PASTA_DSN-6E66/PASTA/PASTA_Scripts/)
-- [3 - Random Scripts](https://anonymous.4open.science/r/PASTA_DSN-6E66/Random_Approach/Random_Scripts/)
-- [4 - PASTA Replacement Files](https://anonymous.4open.science/r/PASTA_DSN-6E66/PASTA/BSN_Files_to_Replace/)
-- [5 - Random Replacement Files](https://anonymous.4open.science/r/PASTA_DSN-6E66/Random_Approach/BSN_Files_to_Replace/)
   
 ## **Configuring the SA-BSN**:
 1. Download and install the [ROS Melodic for Ubuntu 18.04](http://wiki.ros.org/melodic/Installation/Ubuntu)
@@ -22,14 +14,12 @@
 ```
 $ git clone https://github.com/fedebotu/clone-anonymous-github.git && cd clone-anonymous-github
 $ python3 src/download.py --url https://anonymous.4open.science/r/PASTA_DSN-6E66/
+$ cd PASTA_DSN-6E66/
 ```
 
 ## PASTA
 ### **Preparing the SA-BSN to PASTA**:
 1. Enter the folder `BSN_Folder_Path/src/sa-bsn/target_system/components/component/src/g4t1`
-
-
-
 2. Replace the *G4T1.cpp* file with the one we provide [here](https://anonymous.4open.science/r/PASTA_DSN-6E66/PASTA/BSN_Files_to_Replace/G4T1.cpp).
 3. Enter the folder `BSN_Folder_Path/src/libbsn/src/generator`
 4. Replace the *DataGenerator.cpp* file with the one we provide [here](https://anonymous.4open.science/r/PASTA_DSN-6E66/PASTA/BSN_Files_to_Replace/DataGenerator.cpp).
@@ -135,3 +125,10 @@ $ wget --no-check-certificate --content-disposition https://github.com/samirasil
 $ unzip PASTA_ICST-main.zip -d PASTA_ICST-main
 $ cd PASTA_ICST-main
 ```
+
+## **Required Files**:
+- [1 - ACTS Tool](https://github.com/usnistgov/combinatorial-testing-tools)
+- [2 - PASTA Scripts](https://anonymous.4open.science/r/PASTA_DSN-6E66/PASTA/PASTA_Scripts/)
+- [3 - Random Scripts](https://anonymous.4open.science/r/PASTA_DSN-6E66/Random_Approach/Random_Scripts/)
+- [4 - PASTA Replacement Files](https://anonymous.4open.science/r/PASTA_DSN-6E66/PASTA/BSN_Files_to_Replace/)
+- [5 - Random Replacement Files](https://anonymous.4open.science/r/PASTA_DSN-6E66/Random_Approach/BSN_Files_to_Replace/)
