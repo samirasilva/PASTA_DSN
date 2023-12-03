@@ -83,27 +83,24 @@ bash  PASTA/PASTA_Scripts/read_all_output.sh 'number_of_patients' 'number_of_exe
   
 ## Random
 ### **Preparing the SA-BSN to Random**:
-1. Enter this folder:
+1. Replace the *G4T1.cpp* file:
 ```
-BSN_Folder_Path/src/sa-bsn/target_system/components/component/src/g4t1
+$ \cp Random_Approach/BSN_Files_to_Replace/G4T1.cpp bsn_path/src/sa-bsn/target_system/components/component/src/g4t1/G4T1.cpp
 ```
-Note: Replace "BSN_Folder_Path" with the path to the BSN folder.
-2. Replace the G4T1.cpp file with the one we provide [here]().
-3. Enter this folder:
+2. Replace the *DataGenerator.cpp* file:
 ```
-BSN_Folder_Path/src/libbsn/src/generator
+$ \cp Random_Approach/BSN_Files_to_Replace/DataGenerator.cpp bsn_path/src/sa-bsn/src/libbsn/src/generator/DataGenerator.cpp
 ```
-4. Replace the DataGenerator.cpp file with the one we provide [here]().
-5. Enter this folder:
+3. Replace the *PatientModule.cpp* file:
 ```
-BSN_Folder_Path/src/sa-bsn/environment/patient/src
+$ \cp Random_Approach/BSN_Files_to_Replace/PatientModule.cpp bsn_path/src/sa-bsn/environment/patient/src/PatientModule.cpp
 ```
-6. Replace the PatientModule.cpp file with the one we provide [here]().
-7. Open a terminal of Ubuntu and type:
+4. Build the SA-BSN:
 ```
-$ cd /BSN_Folder_Path/
-$ catkin_make       
+$ (cd bsn_path ; catkin_make)
 ```
+<sub>(Replace "bsn_path" with the path to the BSN folder.)</sub>
+
 ### **Running Random**:
 1. Paste the [patient]() to the folder:
 ```
