@@ -18,6 +18,12 @@
 1. Download and install the [ROS Melodic for Ubuntu 18.04](http://wiki.ros.org/melodic/Installation/Ubuntu)
 2. Download and install the [SA-BSN](https://github.com/lesunb/bsn/tree/1c45cd8f4c43e36fcf5665940d5ce7c66b907b31)
 
+## **Clone this repository**:
+```
+$ git clone https://github.com/fedebotu/clone-anonymous-github.git && cd clone-anonymous-github
+$ python3 src/download.py --url https://anonymous.4open.science/r/PASTA_DSN-6E66/
+```
+
 ## PASTA
 ### **Preparing the SA-BSN to PASTA**:
 1. Enter this folder:
