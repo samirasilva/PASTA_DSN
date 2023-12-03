@@ -40,7 +40,7 @@ $ catkin_make
 
 ### **Running PASTA**:
 
-#### **Generation of T-way Combinations**:
+#### **1. Generation of T-way Combinations**:
 *(Skip this step if you want to use the [provided t-way combinations](https://anonymous.4open.science/r/PASTA_DSN-6E66/PASTA/Output_Files/1_ACTS_BSN_Test_Set_t2/1_ACTS_BSN_Test_Set_t_2.txt))*
 
 1. Download the [ACTS 3.2 tool](https://github.com/usnistgov/combinatorial-testing-tools).
@@ -50,7 +50,7 @@ $ catkin_make
 5. Click on *Build->Build* to regenerate the t-way combinations.
 6. Finally, save your modifications with *System->Save*.
 
-#### **Converting T-way Combinations into Patients**:
+#### **2. Converting T-way Combinations into Patients**:
 
 *(Step needed if the previous one has been performed)*
 1. Execute the script `conver_tm_into_patient.py` to transform each t-way combination into a patient:
@@ -60,7 +60,7 @@ $ python PASTA_DSN-6E66/PASTA/PASTA_Scripts/conver_tm_into_patient.py ./save_the
 ```
 `./save_the_patients_here/` is the folder where you want to save the patients.
 
-#### **Executing PASTA**:
+#### **3. Executing PASTA**:
 1. Open the terminal and type:
 ```
 bash PASTA_DSN-6E66/PASTA/PASTA_Scripts/script_pasta_dns.sh 'Path_to_Patients_folder' 'number_of_patients' 'execution_time' 'number_of_executions'
