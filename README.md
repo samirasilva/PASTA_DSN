@@ -60,7 +60,7 @@ $ (cd bsn_path ; catkin_make)
 #### **2. Converting T-way Combinations into Patients**:
 *(Step needed only if the previous one has been performed)*
 
-1. Execute the script `conver_tm_into_patient.py` to transform each a t-way combination into a patient:
+1. Execute the script `conver_tm_into_patient.py` to transform each t-way combination into a patient:
 ```
 $ python PASTA/PASTA_Scripts/conver_tm_into_patient.py PASTA/Output_Files/2_Test_Patients PASTA/Output_Files/1_ACTS_BSN_Test_Set_t2/1_ACTS_BSN_Test_Set_t_2.txt
 
