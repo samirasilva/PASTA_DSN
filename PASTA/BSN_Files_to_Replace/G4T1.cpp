@@ -180,9 +180,7 @@ void G4T1::process(){
     std::cout << "| PATIENT_STATE:" << patient_risk << std::endl;
 
     uint64_t ms = duration_cast<milliseconds>(system_clock::now().time_since_epoch()).count();
-
-    //const auto p1 = std::chrono::system_clock::now();
-    std::cout << "Seconds Since Epoch: "
+    std::cout << "MilliSeconds Since Epoch: "
               << ms << '\n';
 
     std::cout << "*****************************************" << std::endl;
