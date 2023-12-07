@@ -31,9 +31,9 @@ $ \cp PASTA/BSN_Files_to_Replace/DataGenerator.cpp bsn_path/src/sa-bsn/src/libbs
 ```
 $ \cp PASTA/BSN_Files_to_Replace/PatientModule.cpp bsn_path/src/sa-bsn/environment/patient/src/PatientModule.cpp
 ```
-4. Replace the *G4T1.cpp* file:
+4. Replace the *g4t1.launch* file:
 ```
-$ \cp PASTA/BSN_Files_to_Replace/G4T1.cpp bsn_path/src/sa-bsn/configurations/target_system/G4T1.cpp
+$ \cp PASTA/BSN_Files_to_Replace/g4t1.launch bsn_path/src/sa-bsn/configurations/target_system/g4t1.launch
 ```
 5. Replace the *run.sh* file:
 ```
@@ -104,9 +104,9 @@ $ \cp Random_Approach/BSN_Files_to_Replace/DataGenerator.cpp bsn_path/src/sa-bsn
 ```
 $ \cp Random_Approach/BSN_Files_to_Replace/PatientModule.cpp bsn_path/src/sa-bsn/environment/patient/src/PatientModule.cpp
 ```
-4. Replace the *G4T1.cpp* file:
+4. Replace the *g4t1.launch* file:
 ```
-$ \cp Random_Approach/BSN_Files_to_Replace/G4T1.cpp bsn_path/src/sa-bsn/configurations/target_system/G4T1.cpp
+$ \cp Random_Approach/BSN_Files_to_Replace/g4t1.launch bsn_path/src/sa-bsn/configurations/target_system/g4t1.launch
 ```
 5. Replace the *run.sh* file:
 ```
