@@ -1,9 +1,9 @@
-import sys
+	import sys
 import os 
 
 #FORMAT OUTPUT OF THE BSN AND COMPUTE THE ORACLE
 #Example of call: 
-#python conver_tm_into_patient.py './patient/' '1_ACTS_BSN_Test_Set_t_2.txt'
+#python conver_tm_into_patient.py './patient' '1_ACTS_BSN_Test_Set_t_2.txt'
 #or
 #python conver_tm_into_patient.py
 
@@ -14,12 +14,13 @@ def main(argv):
        patients_folder= sys.argv[1]
        input_file = sys.argv[2]      
    elif(len(sys.argv)==1):
-       patients_folder="./patient/"
+       patients_folder="./patient"
        input_file="1_ACTS_BSN_Test_Set_t_2.txt"
    else:
        print("Error!")
        exit(0)
 
+   patients_folder=patients_folder+"/"
    if os.path.isdir(patients_folder):
        os.system("rm -R "+patients_folder)
    os.makedirs(patients_folder)
