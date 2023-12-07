@@ -31,7 +31,15 @@ $ \cp PASTA/BSN_Files_to_Replace/DataGenerator.cpp bsn_path/src/sa-bsn/src/libbs
 ```
 $ \cp PASTA/BSN_Files_to_Replace/PatientModule.cpp bsn_path/src/sa-bsn/environment/patient/src/PatientModule.cpp
 ```
-4. Build the SA-BSN:
+4. Replace the *g4t1.launch* file:
+```
+$ \cp PASTA/BSN_Files_to_Replace/g4t1.launch bsn_path/src/sa-bsn/configurations/target_system/g4t1.launch
+```
+5. Replace the *run.sh* file:
+```
+$ \cp PASTA/BSN_Files_to_Replace/run.sh bsn_path/run.sh
+```
+6. Build the SA-BSN:
 ```
 $ (cd bsn_path ; catkin_make)
 ```
@@ -96,7 +104,15 @@ $ \cp Random_Approach/BSN_Files_to_Replace/DataGenerator.cpp bsn_path/src/sa-bsn
 ```
 $ \cp Random_Approach/BSN_Files_to_Replace/PatientModule.cpp bsn_path/src/sa-bsn/environment/patient/src/PatientModule.cpp
 ```
-4. Build the SA-BSN:
+4. Replace the *g4t1.launch* file:
+```
+$ \cp Random_Approach/BSN_Files_to_Replace/g4t1.launch bsn_path/src/sa-bsn/configurations/target_system/g4t1.launch
+```
+5. Replace the *run.sh* file:
+```
+$ \cp Random_Approach/BSN_Files_to_Replace/run.sh bsn_path/run.sh
+```
+6. Build the SA-BSN:
 ```
 $ (cd bsn_path ; catkin_make)
 ```
@@ -126,3 +142,6 @@ bash  Random_Approach/Random_Scripts/read_all_output.sh 1 'number_of_executions'
 - [3 - Sensor Readings, BSN Outcomes and Expected Outcomes](https://anonymous.4open.science/r/PASTA_DSN-6E66/Random_Approach/Output_Files/3_Sensor_Readings_BSN_Outcome_and_Expected_Outcome/ParseLog.tar.xz) (Parsing of BSN Logs)
 - [4 - Summary of Results](https://anonymous.4open.science/r/PASTA_DSN-6E66/Random_Approach/Output_Files/4_Summary_Of_Results/)(Testing Results)
 
+## **Statistical Tests**
+- [1 - Datasets](https://anonymous.4open.science/r/PASTA_DSN-6E66/Scripts_Statistical_Tests/dataset.tar.xz) (Dataset with Test Cases (Sensor Readings and Expected Outcomes) and BSN Outcomes)
+- [2 - Script ](https://anonymous.4open.science/r/PASTA_DSN-6E66/Scripts_Statistical_Tests/statistical_analysis.R) (Script to compute statistical tests)
