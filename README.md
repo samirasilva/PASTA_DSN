@@ -31,7 +31,15 @@ $ \cp PASTA/BSN_Files_to_Replace/DataGenerator.cpp bsn_path/src/sa-bsn/src/libbs
 ```
 $ \cp PASTA/BSN_Files_to_Replace/PatientModule.cpp bsn_path/src/sa-bsn/environment/patient/src/PatientModule.cpp
 ```
-4. Build the SA-BSN:
+4. Replace the *G4T1.cpp* file:
+```
+$ \cp PASTA/BSN_Files_to_Replace/G4T1.cpp bsn_path/src/sa-bsn/configurations/target_system/G4T1.cpp
+```
+5. Replace the *run.sh* file:
+```
+$ \cp PASTA/BSN_Files_to_Replace/run.sh bsn_path/run.sh
+```
+6. Build the SA-BSN:
 ```
 $ (cd bsn_path ; catkin_make)
 ```
@@ -96,7 +104,15 @@ $ \cp Random_Approach/BSN_Files_to_Replace/DataGenerator.cpp bsn_path/src/sa-bsn
 ```
 $ \cp Random_Approach/BSN_Files_to_Replace/PatientModule.cpp bsn_path/src/sa-bsn/environment/patient/src/PatientModule.cpp
 ```
-4. Build the SA-BSN:
+4. Replace the *G4T1.cpp* file:
+```
+$ \cp Random_Approach/BSN_Files_to_Replace/G4T1.cpp bsn_path/src/sa-bsn/configurations/target_system/G4T1.cpp
+```
+5. Replace the *run.sh* file:
+```
+$ \cp Random_Approach/BSN_Files_to_Replace/run.sh bsn_path/run.sh
+```
+6. Build the SA-BSN:
 ```
 $ (cd bsn_path ; catkin_make)
 ```
