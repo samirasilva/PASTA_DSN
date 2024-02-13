@@ -1,10 +1,10 @@
 # PASTA (PAtient Simulation for Testing of bsn Applications)
 
-**Paper Title**: Testing Body Sensor Networks Applications through Patient Simulation
+**Paper Title**: An Experience Report on Testing a Body Sensor Network Application
 
-**Submitted to**: 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2024)
+**Submitted to**: 43rd International Conference on Computer Safety, Reliability and Security (SafeComp 2024)
 
-**Abstract**: Body Sensor Networks (BSNs) have emerged from a recent thrust on wearable biosensor technology development. They provide an inexpensive means to continuously monitor the health status of patients and timely detect potential risks. Notwithstanding the growing interest attracted by BSNs and their critical nature, in the literature, there is a lack of testing approaches for BSNs. In this work, we fill this gap and propose PASTA (PAtient Simulation for Testing of bsn Applications), a novel model-based testing approach that mixes Combinatorial Testing and Markov Chains simulation to test a BSN. We simulate a patient by considering a set of sensors and by mimicking the trend of each sensor via a Discrete Time Markov Chain (DTMC). We evaluate PASTA by applying it to test a self-adaptive BSN system from the literature, the SA-BSN (Self-Adaptive Body Sensor Network). PASTA was able to detect some unknown failures and showed better effectiveness when compared to a random baseline. 
+**Abstract**: Body Sensor Networks (BSNs) are becoming increasingly popular because of the thrust on wearable biosensor technology development. They provide an inexpensive means to continuously monitor the health status of patients and timely detect potential risks. Notwithstanding the growing interest attracted by BSNs and their critical nature, in the literature, there is a lack of testing approaches for BSNs. This paper describes our experience in testing an open-source BSN, namely SA-BSN (Self-Adaptive BSN). The testing approach we propose mixes Combinatorial Testing and Markov Chains simulation to test various types of patients, whose health status evolves over time. Specifically, we simulate a patient by considering a set of sensors and by mimicking the trend of each sensor via a Discrete Time Markov Chain. Our testing approach was able to detect some unknown failures and showed better effectiveness when compared to a random baseline. Out of this experience, we summarize a set of lessons learned for both researchers and practitioners. 
   
 ## **Configure the SA-BSN**:
 1. Download and install the [ROS Melodic for Ubuntu 18.04](http://wiki.ros.org/melodic/Installation/Ubuntu)
