@@ -11,14 +11,13 @@
 2. Download and install the [SA-BSN](https://github.com/lesunb/bsn/tree/1c45cd8f4c43e36fcf5665940d5ce7c66b907b31)
 
 ## **Clone this repository**:
-```
-<! -- $ git clone https://github.com/fedebotu/clone-anonymous-github.git && cd clone-anonymous-github -->
-<! -- $ python3 src/download.py --url https://anonymous.4open.science/r/PASTA_SAFECOMP-5F11/ -->
-<! -- $ cd PASTA_SAFECOMP-5F11/ -->
+[comment]: <> ($ git clone https://github.com/fedebotu/clone-anonymous-github.git && cd clone-anonymous-github)
+[comment]: <> ($ python3 src/download.py --url https://anonymous.4open.science/r/PASTA_SAFECOMP-5F11/)
+[comment]: <> ($ cd PASTA_SAFECOMP-5F11/)
 
+```
 $ git clone https://github.com/samirasilva/PASTA_SEAA.git
 $ cd PASTA_SEAA
-
 ```
 
 ## PASTA
