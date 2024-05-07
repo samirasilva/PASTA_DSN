@@ -12,9 +12,9 @@
 
 ## **Clone this repository**:
 ```
-<!--$ git clone https://github.com/fedebotu/clone-anonymous-github.git && cd clone-anonymous-github--!>
-<!--$ python3 src/download.py --url https://anonymous.4open.science/r/PASTA_SAFECOMP-5F11/--!>
-<!--$ cd PASTA_SAFECOMP-5F11/--!>
+<!--$ git clone https://github.com/fedebotu/clone-anonymous-github.git && cd clone-anonymous-github-->
+<!--$ python3 src/download.py --url https://anonymous.4open.science/r/PASTA_SAFECOMP-5F11/-->
+<!--$ cd PASTA_SAFECOMP-5F11/-->
 
 $ git clone https://github.com/samirasilva/PASTA_SEAA.git
 $ cd PASTA_SEAA
